@@ -1,0 +1,1001 @@
+order_id,store_id,city,zone,category,distance_km,sla_target_mins,actual_delivery_mins,sla_breached,fleet_type,ambient_temp_c,thermal_spoilage_flag,order_value_inr,spoilage_loss_inr
+ORD_10001,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,1.42,10,8.6,0,Standard Bike,32.5,0,404.96,0.0
+ORD_10002,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,3.51,15,12.6,0,Standard Bike,37.7,0,1540.29,0.0
+ORD_10003,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,5.46,15,21.4,1,EV Refrig Bike,28.1,0,285.75,0.0
+ORD_10004,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,1.2,10,7.7,0,Standard Bike,32.6,0,1467.02,0.0
+ORD_10005,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,5.42,15,23.2,1,Standard Bike,34.8,1,270.56,285.15
+ORD_10006,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,4.54,15,18.3,1,EV Refrig Bike,34.8,0,932.24,0.0
+ORD_10007,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,4.67,15,20.8,1,Standard Bike,29.8,1,908.99,376.61
+ORD_10008,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,1.42,10,9.0,0,EV Refrig Bike,37.4,0,1636.98,0.0
+ORD_10009,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,2.13,10,10.8,1,EV Refrig Bike,37.6,0,1559.03,0.0
+ORD_10010,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,4.64,15,19.0,1,Standard Bike,33.4,1,1493.41,192.28
+ORD_10011,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,2.62,15,12.0,0,EV Refrig Bike,28.1,0,558.21,0.0
+ORD_10012,DS_HYD_01,Hyderabad,Hitech City,Beverages,4.36,15,20.3,1,EV Refrig Bike,29.2,0,1587.81,0.0
+ORD_10013,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,0.98,10,8.0,0,EV Refrig Bike,34.7,0,1166.51,0.0
+ORD_10014,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,2.86,15,15.7,1,EV Refrig Bike,35.6,0,1119.98,0.0
+ORD_10015,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,0.7,10,4.5,0,Standard Bike,32.4,0,562.66,0.0
+ORD_10016,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,2.07,10,12.3,1,EV Refrig Bike,30.5,0,886.09,0.0
+ORD_10017,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,5.21,15,21.1,1,Standard Bike,36.8,1,708.23,337.31
+ORD_10018,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,4.52,15,22.2,1,Standard Bike,33.4,0,1501.53,0.0
+ORD_10019,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,5.03,15,22.4,1,EV Refrig Bike,28.0,0,796.48,0.0
+ORD_10020,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,3.05,15,13.1,0,Standard Bike,29.2,1,1711.51,251.28
+ORD_10021,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,3.29,15,13.3,0,EV Refrig Bike,30.5,0,632.66,0.0
+ORD_10022,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,2.0,10,9.2,0,Standard Bike,34.1,0,1029.15,0.0
+ORD_10023,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,2.23,10,11.6,1,EV Refrig Bike,33.3,0,944.06,0.0
+ORD_10024,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,3.86,15,14.3,0,EV Refrig Bike,35.3,0,820.06,0.0
+ORD_10025,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,2.49,10,12.4,1,EV Refrig Bike,29.5,0,1037.71,0.0
+ORD_10026,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,3.45,15,12.6,0,EV Refrig Bike,33.1,0,601.07,0.0
+ORD_10027,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,5.2,15,21.6,1,EV Refrig Bike,36.4,0,1297.32,0.0
+ORD_10028,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,5.12,15,17.6,1,EV Refrig Bike,34.6,0,1516.69,0.0
+ORD_10029,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,1.8,10,10.8,1,EV Refrig Bike,33.6,0,1618.09,0.0
+ORD_10030,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,2.25,10,12.3,1,Standard Bike,36.9,1,1245.15,383.96
+ORD_10031,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,4.43,15,17.8,1,Standard Bike,31.7,0,1707.21,0.0
+ORD_10032,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.3,10,8.9,0,EV Refrig Bike,34.5,0,597.62,0.0
+ORD_10033,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,2.97,15,14.4,0,EV Refrig Bike,35.4,0,1367.46,0.0
+ORD_10034,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,0.97,10,6.4,0,EV Refrig Bike,30.4,0,1758.17,0.0
+ORD_10035,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,5.03,15,20.1,1,Standard Bike,34.5,1,1589.46,350.68
+ORD_10036,DS_MUM_01,Mumbai,Bandra West,Beverages,1.9,10,12.1,1,EV Refrig Bike,29.8,0,1707.71,0.0
+ORD_10037,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,4.92,15,20.4,1,Standard Bike,31.3,1,1137.05,315.83
+ORD_10038,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.97,10,12.1,1,EV Refrig Bike,31.2,0,512.71,0.0
+ORD_10039,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,4.72,15,15.4,1,EV Refrig Bike,30.1,0,1290.27,0.0
+ORD_10040,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,3.09,15,13.7,0,Standard Bike,35.0,1,807.21,360.75
+ORD_10041,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,2.6,15,13.7,0,Standard Bike,28.8,1,1223.24,151.56
+ORD_10042,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,4.01,15,17.3,1,EV Refrig Bike,31.4,0,832.15,0.0
+ORD_10043,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,3.86,15,16.0,1,EV Refrig Bike,37.8,0,1550.35,0.0
+ORD_10044,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,0.69,10,5.4,0,EV Refrig Bike,29.3,0,1059.48,0.0
+ORD_10045,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,5.33,15,22.9,1,Standard Bike,29.9,1,1334.24,273.41
+ORD_10046,DS_HYD_01,Hyderabad,Hitech City,Beverages,5.38,15,20.6,1,EV Refrig Bike,36.0,0,669.79,0.0
+ORD_10047,DS_MUM_01,Mumbai,Bandra West,Beverages,1.75,10,8.8,0,EV Refrig Bike,32.3,0,1317.17,0.0
+ORD_10048,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.28,10,8.8,0,EV Refrig Bike,35.1,0,1273.31,0.0
+ORD_10049,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,3.08,15,13.2,0,Standard Bike,35.3,1,1127.36,164.31
+ORD_10050,DS_BLR_03,Bengaluru,Whitefield,Beverages,0.57,10,4.3,0,Standard Bike,28.4,0,1575.96,0.0
+ORD_10051,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,0.59,10,7.0,0,EV Refrig Bike,31.5,0,970.24,0.0
+ORD_10052,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,3.58,15,13.2,0,Standard Bike,31.7,1,1029.86,337.76
+ORD_10053,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,3.92,15,18.0,1,EV Refrig Bike,37.4,0,1594.16,0.0
+ORD_10054,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,3.38,15,16.0,1,EV Refrig Bike,32.6,0,1095.71,0.0
+ORD_10055,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,4.6,15,16.9,1,Standard Bike,30.7,1,834.75,214.38
+ORD_10056,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,3.92,15,18.5,1,Standard Bike,36.4,1,1512.43,156.98
+ORD_10057,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.96,15,19.4,1,EV Refrig Bike,28.4,0,897.82,0.0
+ORD_10058,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,1.39,10,9.3,0,Standard Bike,37.9,0,889.56,0.0
+ORD_10059,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,3.4,15,13.9,0,EV Refrig Bike,30.4,0,1303.76,0.0
+ORD_10060,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,1.02,10,6.9,0,Standard Bike,36.3,0,746.08,0.0
+ORD_10061,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,0.77,10,7.5,0,Standard Bike,31.5,0,1733.04,0.0
+ORD_10062,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,3.37,15,14.2,0,Standard Bike,30.9,0,759.43,0.0
+ORD_10063,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,5.23,15,17.8,1,Standard Bike,37.3,1,1793.69,442.27
+ORD_10064,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,4.94,15,19.4,1,EV Refrig Bike,29.4,0,1430.34,0.0
+ORD_10065,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,4.69,15,18.5,1,EV Refrig Bike,32.0,0,1632.44,0.0
+ORD_10066,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,0.92,10,6.0,0,EV Refrig Bike,31.7,0,1509.84,0.0
+ORD_10067,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,3.46,15,16.7,1,Standard Bike,32.8,0,835.88,0.0
+ORD_10068,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,5.03,15,23.1,1,Standard Bike,28.1,1,337.27,290.6
+ORD_10069,DS_MUM_01,Mumbai,Bandra West,Beverages,4.61,15,18.4,1,EV Refrig Bike,30.4,0,870.35,0.0
+ORD_10070,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,4.84,15,23.4,1,EV Refrig Bike,28.1,0,1753.31,0.0
+ORD_10071,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,0.72,10,7.7,0,Standard Bike,30.5,0,1327.89,0.0
+ORD_10072,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,3.65,15,14.8,0,EV Refrig Bike,34.3,0,1155.69,0.0
+ORD_10073,DS_HYD_01,Hyderabad,Hitech City,Beverages,5.08,15,16.3,1,EV Refrig Bike,31.9,0,415.47,0.0
+ORD_10074,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,1.44,10,8.1,0,Standard Bike,33.8,0,370.49,0.0
+ORD_10075,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,2.77,15,14.0,0,EV Refrig Bike,32.1,0,1184.31,0.0
+ORD_10076,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,5.05,15,20.4,1,EV Refrig Bike,35.3,0,1200.79,0.0
+ORD_10077,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,4.88,15,18.2,1,EV Refrig Bike,32.1,0,1455.28,0.0
+ORD_10078,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,1.25,10,7.4,0,EV Refrig Bike,37.7,0,1555.28,0.0
+ORD_10079,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,0.68,10,4.6,0,Standard Bike,28.8,0,1322.16,0.0
+ORD_10080,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,5.48,15,22.5,1,Standard Bike,37.4,0,1566.95,0.0
+ORD_10081,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.53,10,8.6,0,EV Refrig Bike,30.1,0,1611.24,0.0
+ORD_10082,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,2.29,10,13.4,1,EV Refrig Bike,33.2,0,1447.09,0.0
+ORD_10083,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,4.58,15,15.0,0,Standard Bike,35.9,1,994.07,326.99
+ORD_10084,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,3.6,15,13.7,0,Standard Bike,29.4,0,272.54,0.0
+ORD_10085,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,3.68,15,14.1,0,EV Refrig Bike,35.3,0,1098.54,0.0
+ORD_10086,DS_BLR_01,Bengaluru,Koramangala,Beverages,2.48,10,13.1,1,EV Refrig Bike,37.5,0,477.96,0.0
+ORD_10087,DS_HYD_01,Hyderabad,Hitech City,Beverages,4.34,15,19.0,1,EV Refrig Bike,34.2,0,788.49,0.0
+ORD_10088,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,1.7,10,9.1,0,EV Refrig Bike,29.3,0,485.45,0.0
+ORD_10089,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,1.4,10,7.9,0,EV Refrig Bike,36.7,0,1048.62,0.0
+ORD_10090,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,1.46,10,8.4,0,EV Refrig Bike,30.8,0,524.37,0.0
+ORD_10091,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,3.17,15,16.5,1,Standard Bike,29.3,1,748.45,249.03
+ORD_10092,DS_BLR_02,Bengaluru,Indiranagar,Beverages,3.64,15,19.5,1,EV Refrig Bike,37.2,0,344.67,0.0
+ORD_10093,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,0.92,10,8.8,0,EV Refrig Bike,33.4,0,1682.26,0.0
+ORD_10094,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,2.34,10,12.7,1,EV Refrig Bike,28.4,0,641.28,0.0
+ORD_10095,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,4.72,15,16.1,1,Standard Bike,36.7,1,865.6,256.24
+ORD_10096,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.39,10,12.8,1,EV Refrig Bike,30.1,0,757.62,0.0
+ORD_10097,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,2.21,10,10.7,1,EV Refrig Bike,34.5,0,993.35,0.0
+ORD_10098,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,3.43,15,13.9,0,EV Refrig Bike,29.3,0,689.85,0.0
+ORD_10099,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,3.54,15,16.7,1,EV Refrig Bike,31.3,0,1697.22,0.0
+ORD_10100,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,1.26,10,7.2,0,Standard Bike,29.9,0,691.9,0.0
+ORD_10101,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,4.71,15,20.5,1,Standard Bike,35.0,1,1639.75,449.18
+ORD_10102,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,4.83,15,17.0,1,EV Refrig Bike,29.7,0,1286.4,0.0
+ORD_10103,DS_BLR_01,Bengaluru,Koramangala,Beverages,3.18,15,15.8,1,EV Refrig Bike,30.1,0,1750.39,0.0
+ORD_10104,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,3.04,15,13.4,0,EV Refrig Bike,34.1,0,697.38,0.0
+ORD_10105,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,5.16,15,22.3,1,Standard Bike,31.7,1,1100.33,286.28
+ORD_10106,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,2.11,10,9.1,0,EV Refrig Bike,34.8,0,1428.35,0.0
+ORD_10107,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,3.53,15,12.7,0,Standard Bike,36.5,1,883.2,373.79
+ORD_10108,DS_MUM_02,Mumbai,Andheri East,Beverages,5.19,15,21.4,1,Standard Bike,35.4,0,1140.43,0.0
+ORD_10109,DS_HYD_01,Hyderabad,Hitech City,Beverages,4.64,15,18.9,1,EV Refrig Bike,36.3,0,538.93,0.0
+ORD_10110,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,3.12,15,16.2,1,Standard Bike,31.9,1,930.66,394.98
+ORD_10111,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,3.62,15,15.3,1,EV Refrig Bike,33.8,0,800.81,0.0
+ORD_10112,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.22,15,13.5,0,Standard Bike,29.2,1,1222.95,431.95
+ORD_10113,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,1.33,10,7.8,0,EV Refrig Bike,35.4,0,1138.38,0.0
+ORD_10114,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,2.06,10,12.4,1,Standard Bike,28.3,1,1431.81,320.97
+ORD_10115,DS_BLR_03,Bengaluru,Whitefield,Beverages,1.01,10,6.7,0,Standard Bike,32.6,0,1186.13,0.0
+ORD_10116,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,1.25,10,9.4,0,Standard Bike,35.2,0,1243.78,0.0
+ORD_10117,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,4.08,15,18.1,1,Standard Bike,37.6,1,602.39,252.76
+ORD_10118,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,5.24,15,23.9,1,Standard Bike,33.1,1,278.07,333.44
+ORD_10119,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,1.01,10,8.0,0,EV Refrig Bike,28.2,0,1259.62,0.0
+ORD_10120,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,3.53,15,16.7,1,EV Refrig Bike,37.3,0,1684.63,0.0
+ORD_10121,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,1.68,10,9.0,0,Standard Bike,36.4,0,764.83,0.0
+ORD_10122,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,3.46,15,13.9,0,EV Refrig Bike,31.4,0,1494.42,0.0
+ORD_10123,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,1.07,10,9.0,0,Standard Bike,37.2,0,971.84,0.0
+ORD_10124,DS_BLR_03,Bengaluru,Whitefield,Beverages,2.76,15,13.8,0,Standard Bike,29.4,0,523.4,0.0
+ORD_10125,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,0.67,10,7.5,0,Standard Bike,30.8,0,591.15,0.0
+ORD_10126,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,1.39,10,6.4,0,EV Refrig Bike,32.1,0,382.29,0.0
+ORD_10127,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,2.0,10,10.6,1,Standard Bike,32.3,0,1489.66,0.0
+ORD_10128,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,1.45,10,9.6,0,EV Refrig Bike,33.6,0,351.85,0.0
+ORD_10129,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,3.14,15,14.0,0,EV Refrig Bike,33.0,0,1436.3,0.0
+ORD_10130,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,4.81,15,16.8,1,EV Refrig Bike,30.7,0,1248.2,0.0
+ORD_10131,DS_MUM_01,Mumbai,Bandra West,Beverages,5.39,15,21.0,1,EV Refrig Bike,32.1,0,1105.17,0.0
+ORD_10132,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,3.86,15,17.7,1,Standard Bike,36.0,1,1261.76,203.56
+ORD_10133,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,4.53,15,16.8,1,Standard Bike,36.1,0,1742.11,0.0
+ORD_10134,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,1.52,10,10.9,1,EV Refrig Bike,28.1,0,382.54,0.0
+ORD_10135,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,1.11,10,7.7,0,Standard Bike,35.0,0,1661.47,0.0
+ORD_10136,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,1.8,10,10.5,1,Standard Bike,30.7,0,1217.43,0.0
+ORD_10137,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,2.31,10,9.5,0,EV Refrig Bike,37.7,0,1458.63,0.0
+ORD_10138,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,2.94,15,13.5,0,EV Refrig Bike,32.3,0,284.83,0.0
+ORD_10139,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,3.99,15,16.3,1,EV Refrig Bike,34.5,0,903.64,0.0
+ORD_10140,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,1.36,10,6.9,0,EV Refrig Bike,37.1,0,432.51,0.0
+ORD_10141,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,0.84,10,6.8,0,EV Refrig Bike,35.2,0,415.2,0.0
+ORD_10142,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,5.0,15,18.6,1,EV Refrig Bike,34.0,0,1280.81,0.0
+ORD_10143,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,4.69,15,20.9,1,Standard Bike,32.2,1,1735.87,256.16
+ORD_10144,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,3.52,15,16.2,1,EV Refrig Bike,30.9,0,801.29,0.0
+ORD_10145,DS_BLR_01,Bengaluru,Koramangala,Beverages,3.55,15,13.4,0,EV Refrig Bike,37.5,0,459.25,0.0
+ORD_10146,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,0.66,10,6.7,0,EV Refrig Bike,28.5,0,1019.37,0.0
+ORD_10147,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,3.62,15,15.2,1,Standard Bike,31.5,1,1342.63,273.84
+ORD_10148,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,1.73,10,10.2,1,EV Refrig Bike,34.9,0,671.82,0.0
+ORD_10149,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.07,10,11.9,1,EV Refrig Bike,35.9,0,1320.37,0.0
+ORD_10150,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,3.21,15,14.1,0,EV Refrig Bike,36.1,0,1271.11,0.0
+ORD_10151,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,5.4,15,19.8,1,EV Refrig Bike,34.9,0,329.97,0.0
+ORD_10152,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,4.03,15,14.0,0,EV Refrig Bike,33.7,0,1669.01,0.0
+ORD_10153,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,4.16,15,17.7,1,EV Refrig Bike,32.2,0,1482.78,0.0
+ORD_10154,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,4.72,15,21.7,1,Standard Bike,28.4,0,1174.22,0.0
+ORD_10155,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,2.91,15,12.4,0,Standard Bike,32.4,1,1137.26,271.35
+ORD_10156,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,4.45,15,20.0,1,EV Refrig Bike,36.9,0,1204.59,0.0
+ORD_10157,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,2.81,15,9.7,0,EV Refrig Bike,29.9,0,845.14,0.0
+ORD_10158,DS_HYD_01,Hyderabad,Hitech City,Beverages,5.49,15,23.9,1,EV Refrig Bike,32.0,0,993.81,0.0
+ORD_10159,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,1.86,10,8.6,0,EV Refrig Bike,31.4,0,1059.9,0.0
+ORD_10160,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.05,10,6.8,0,EV Refrig Bike,31.0,0,612.09,0.0
+ORD_10161,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,5.05,15,22.2,1,EV Refrig Bike,31.9,0,442.88,0.0
+ORD_10162,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,4.43,15,20.7,1,Standard Bike,36.8,0,1714.33,0.0
+ORD_10163,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,5.45,15,18.4,1,Standard Bike,32.0,0,1548.63,0.0
+ORD_10164,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,3.06,15,13.8,0,EV Refrig Bike,30.2,0,538.98,0.0
+ORD_10165,DS_BLR_03,Bengaluru,Whitefield,Beverages,4.5,15,16.8,1,Standard Bike,33.2,0,1175.77,0.0
+ORD_10166,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,2.48,10,12.1,1,EV Refrig Bike,29.5,0,1514.54,0.0
+ORD_10167,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,4.24,15,22.3,1,EV Refrig Bike,36.6,0,959.02,0.0
+ORD_10168,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,1.15,10,9.1,0,EV Refrig Bike,36.6,0,1504.75,0.0
+ORD_10169,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,4.18,15,17.8,1,EV Refrig Bike,28.1,0,1328.36,0.0
+ORD_10170,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,0.91,10,8.0,0,EV Refrig Bike,28.8,0,1569.37,0.0
+ORD_10171,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,3.08,15,12.9,0,EV Refrig Bike,34.6,0,1092.86,0.0
+ORD_10172,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,4.89,15,18.9,1,Standard Bike,36.5,1,1347.96,410.19
+ORD_10173,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,5.15,15,24.4,1,Standard Bike,29.9,1,1740.04,414.49
+ORD_10174,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,4.63,15,20.8,1,EV Refrig Bike,35.4,0,499.18,0.0
+ORD_10175,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,4.28,15,18.0,1,EV Refrig Bike,28.8,0,755.97,0.0
+ORD_10176,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,1.8,10,9.7,0,EV Refrig Bike,35.8,0,415.82,0.0
+ORD_10177,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,2.66,15,11.2,0,EV Refrig Bike,29.8,0,1418.23,0.0
+ORD_10178,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,3.94,15,18.5,1,EV Refrig Bike,35.1,0,354.39,0.0
+ORD_10179,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,0.79,10,8.5,0,EV Refrig Bike,37.9,0,1297.88,0.0
+ORD_10180,DS_MUM_01,Mumbai,Bandra West,Beverages,1.15,10,5.5,0,EV Refrig Bike,28.2,0,751.6,0.0
+ORD_10181,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,1.76,10,9.7,0,Standard Bike,32.7,0,1713.67,0.0
+ORD_10182,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,1.32,10,8.6,0,Standard Bike,30.2,0,377.69,0.0
+ORD_10183,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,1.16,10,9.2,0,EV Refrig Bike,28.3,0,1383.47,0.0
+ORD_10184,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.69,15,15.5,1,Standard Bike,37.8,1,1635.85,272.8
+ORD_10185,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,1.5,10,9.1,0,Standard Bike,33.6,0,980.88,0.0
+ORD_10186,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,1.43,10,9.2,0,Standard Bike,35.7,0,1559.41,0.0
+ORD_10187,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,4.48,15,21.4,1,EV Refrig Bike,37.7,0,537.46,0.0
+ORD_10188,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,1.09,10,8.9,0,Standard Bike,32.3,0,560.81,0.0
+ORD_10189,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,3.76,15,17.4,1,EV Refrig Bike,32.3,0,1775.74,0.0
+ORD_10190,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,0.86,10,6.8,0,EV Refrig Bike,34.0,0,702.08,0.0
+ORD_10191,DS_MUM_02,Mumbai,Andheri East,Beverages,5.26,15,19.7,1,Standard Bike,35.5,0,476.18,0.0
+ORD_10192,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.21,10,8.4,0,EV Refrig Bike,35.0,0,1117.46,0.0
+ORD_10193,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,0.86,10,8.3,0,EV Refrig Bike,28.8,0,1528.0,0.0
+ORD_10194,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,1.16,10,8.4,0,EV Refrig Bike,36.0,0,560.23,0.0
+ORD_10195,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,5.26,15,25.5,1,Standard Bike,33.9,1,1200.06,334.98
+ORD_10196,DS_BLR_01,Bengaluru,Koramangala,Beverages,4.85,15,19.8,1,EV Refrig Bike,31.4,0,1512.98,0.0
+ORD_10197,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,3.27,15,15.4,1,Standard Bike,32.8,1,504.2,162.23
+ORD_10198,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,0.8,10,5.5,0,EV Refrig Bike,36.7,0,589.78,0.0
+ORD_10199,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,4.22,15,15.7,1,Standard Bike,28.4,1,282.33,198.5
+ORD_10200,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,5.48,15,19.7,1,Standard Bike,30.0,1,361.91,354.07
+ORD_10201,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,4.7,15,23.2,1,Standard Bike,32.2,1,1224.59,403.87
+ORD_10202,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,5.44,15,26.8,1,EV Refrig Bike,33.8,0,929.85,0.0
+ORD_10203,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,3.53,15,16.2,1,Standard Bike,34.6,1,689.97,447.64
+ORD_10204,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,3.61,15,16.1,1,Standard Bike,29.3,1,1659.0,364.75
+ORD_10205,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,2.36,10,11.3,1,Standard Bike,28.7,1,400.96,281.15
+ORD_10206,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,3.07,15,14.9,0,Standard Bike,29.6,1,1752.59,267.32
+ORD_10207,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,0.55,10,6.1,0,EV Refrig Bike,32.0,0,617.39,0.0
+ORD_10208,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,0.87,10,7.3,0,Standard Bike,31.4,0,1534.77,0.0
+ORD_10209,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.44,15,12.5,0,EV Refrig Bike,31.6,0,838.01,0.0
+ORD_10210,DS_BLR_03,Bengaluru,Whitefield,Beverages,3.82,15,17.9,1,Standard Bike,36.1,0,1157.3,0.0
+ORD_10211,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,3.2,15,18.5,1,Standard Bike,29.2,1,330.13,219.34
+ORD_10212,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,2.76,15,11.0,0,EV Refrig Bike,33.1,0,314.44,0.0
+ORD_10213,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,2.9,15,10.9,0,EV Refrig Bike,31.2,0,1758.3,0.0
+ORD_10214,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.08,15,14.7,0,Standard Bike,29.4,1,727.29,158.99
+ORD_10215,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,4.16,15,18.2,1,EV Refrig Bike,35.3,0,492.05,0.0
+ORD_10216,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,1.39,10,9.6,0,EV Refrig Bike,37.4,0,1309.03,0.0
+ORD_10217,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,4.65,15,18.3,1,EV Refrig Bike,29.1,0,1483.04,0.0
+ORD_10218,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,1.58,10,8.4,0,EV Refrig Bike,34.5,0,415.22,0.0
+ORD_10219,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,3.52,15,17.7,1,EV Refrig Bike,37.9,0,1416.26,0.0
+ORD_10220,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,4.19,15,15.5,1,Standard Bike,31.3,1,1502.16,350.28
+ORD_10221,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,2.09,10,9.5,0,EV Refrig Bike,31.0,0,1256.07,0.0
+ORD_10222,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,2.33,10,12.6,1,Standard Bike,31.9,1,618.19,284.61
+ORD_10223,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,0.57,10,4.5,0,EV Refrig Bike,34.4,0,1426.98,0.0
+ORD_10224,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,4.82,15,19.4,1,EV Refrig Bike,28.3,0,778.93,0.0
+ORD_10225,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,3.13,15,15.1,1,EV Refrig Bike,31.9,0,1101.59,0.0
+ORD_10226,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,5.28,15,23.7,1,EV Refrig Bike,28.1,0,1253.59,0.0
+ORD_10227,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,3.77,15,15.6,1,EV Refrig Bike,32.8,0,551.57,0.0
+ORD_10228,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,1.78,10,9.5,0,EV Refrig Bike,36.0,0,1085.7,0.0
+ORD_10229,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,4.09,15,19.7,1,EV Refrig Bike,36.2,0,1059.85,0.0
+ORD_10230,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,1.41,10,9.4,0,Standard Bike,29.1,0,1129.33,0.0
+ORD_10231,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,2.62,15,15.3,1,EV Refrig Bike,31.7,0,1066.07,0.0
+ORD_10232,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,3.51,15,15.7,1,Standard Bike,30.3,0,578.67,0.0
+ORD_10233,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.3,10,11.5,1,EV Refrig Bike,33.6,0,646.25,0.0
+ORD_10234,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,4.61,15,20.1,1,EV Refrig Bike,29.0,0,1216.98,0.0
+ORD_10235,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,1.26,10,10.0,0,EV Refrig Bike,32.7,0,1079.81,0.0
+ORD_10236,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,3.71,15,15.8,1,EV Refrig Bike,30.3,0,855.9,0.0
+ORD_10237,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,1.21,10,8.7,0,Standard Bike,34.8,0,936.21,0.0
+ORD_10238,DS_MUM_02,Mumbai,Andheri East,Beverages,3.96,15,13.3,0,Standard Bike,29.0,0,1372.73,0.0
+ORD_10239,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,4.36,15,20.1,1,EV Refrig Bike,34.0,0,871.84,0.0
+ORD_10240,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,2.27,10,12.9,1,EV Refrig Bike,28.7,0,1490.55,0.0
+ORD_10241,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,1.86,10,10.5,1,Standard Bike,30.3,0,958.13,0.0
+ORD_10242,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,5.47,15,20.9,1,EV Refrig Bike,35.3,0,971.07,0.0
+ORD_10243,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,0.94,10,7.1,0,EV Refrig Bike,35.5,0,514.24,0.0
+ORD_10244,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.75,15,11.5,0,EV Refrig Bike,34.6,0,1482.95,0.0
+ORD_10245,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,1.1,10,5.1,0,EV Refrig Bike,35.4,0,1441.33,0.0
+ORD_10246,DS_BLR_01,Bengaluru,Koramangala,Beverages,3.1,15,12.0,0,EV Refrig Bike,35.6,0,447.96,0.0
+ORD_10247,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,1.3,10,7.5,0,EV Refrig Bike,30.3,0,779.6,0.0
+ORD_10248,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,5.18,15,19.7,1,EV Refrig Bike,32.0,0,943.16,0.0
+ORD_10249,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.31,10,8.1,0,EV Refrig Bike,33.7,0,856.12,0.0
+ORD_10250,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.08,10,6.6,0,EV Refrig Bike,36.8,0,1595.49,0.0
+ORD_10251,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,1.56,10,7.8,0,EV Refrig Bike,28.2,0,488.38,0.0
+ORD_10252,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,5.38,15,21.9,1,Standard Bike,29.3,1,1680.27,408.6
+ORD_10253,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,4.99,15,17.7,1,EV Refrig Bike,37.5,0,1529.06,0.0
+ORD_10254,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,0.84,10,5.9,0,Standard Bike,37.6,0,1101.77,0.0
+ORD_10255,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,3.47,15,15.2,1,EV Refrig Bike,30.8,0,1569.75,0.0
+ORD_10256,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,3.6,15,13.7,0,EV Refrig Bike,28.6,0,1460.18,0.0
+ORD_10257,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.92,15,13.1,0,EV Refrig Bike,31.0,0,917.02,0.0
+ORD_10258,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.11,10,6.3,0,EV Refrig Bike,34.9,0,346.55,0.0
+ORD_10259,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,1.64,10,8.8,0,EV Refrig Bike,29.7,0,1266.37,0.0
+ORD_10260,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,1.15,10,7.1,0,EV Refrig Bike,29.9,0,820.03,0.0
+ORD_10261,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,1.38,10,10.5,1,EV Refrig Bike,30.5,0,457.4,0.0
+ORD_10262,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,1.8,10,7.9,0,Standard Bike,33.4,0,583.56,0.0
+ORD_10263,DS_MUM_02,Mumbai,Andheri East,Beverages,3.65,15,15.6,1,Standard Bike,28.4,0,825.68,0.0
+ORD_10264,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,2.77,15,10.3,0,EV Refrig Bike,32.9,0,482.58,0.0
+ORD_10265,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,3.76,15,15.4,1,EV Refrig Bike,36.6,0,858.21,0.0
+ORD_10266,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,5.28,15,18.7,1,EV Refrig Bike,34.9,0,928.28,0.0
+ORD_10267,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,5.15,15,23.5,1,Standard Bike,36.3,1,848.84,298.64
+ORD_10268,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,3.57,15,17.9,1,EV Refrig Bike,29.5,0,1393.02,0.0
+ORD_10269,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,0.74,10,7.9,0,EV Refrig Bike,34.6,0,1493.3,0.0
+ORD_10270,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,5.28,15,19.1,1,Standard Bike,31.0,1,1450.71,254.91
+ORD_10271,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,2.27,10,11.8,1,Standard Bike,36.3,0,356.5,0.0
+ORD_10272,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,0.91,10,5.7,0,EV Refrig Bike,35.7,0,1218.23,0.0
+ORD_10273,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,0.55,10,5.0,0,EV Refrig Bike,28.7,0,1737.73,0.0
+ORD_10274,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,5.34,15,18.7,1,Standard Bike,37.8,1,1152.76,330.56
+ORD_10275,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,3.58,15,15.5,1,Standard Bike,29.1,1,397.27,329.56
+ORD_10276,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.7,15,14.2,0,EV Refrig Bike,30.4,0,438.33,0.0
+ORD_10277,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,0.56,10,6.2,0,EV Refrig Bike,31.2,0,1612.87,0.0
+ORD_10278,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.76,10,9.0,0,EV Refrig Bike,36.4,0,1379.16,0.0
+ORD_10279,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,0.77,10,7.7,0,Standard Bike,30.7,0,1086.31,0.0
+ORD_10280,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,1.16,10,8.7,0,Standard Bike,30.1,0,1034.07,0.0
+ORD_10281,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.57,15,12.6,0,EV Refrig Bike,34.1,0,414.19,0.0
+ORD_10282,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,4.87,15,20.1,1,Standard Bike,29.6,1,264.46,288.47
+ORD_10283,DS_BLR_01,Bengaluru,Koramangala,Beverages,4.91,15,20.2,1,EV Refrig Bike,36.8,0,1269.22,0.0
+ORD_10284,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,4.17,15,15.7,1,EV Refrig Bike,31.6,0,1464.88,0.0
+ORD_10285,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,4.74,15,19.0,1,EV Refrig Bike,28.1,0,1411.8,0.0
+ORD_10286,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,2.13,10,11.2,1,Standard Bike,36.8,1,820.88,448.9
+ORD_10287,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,4.4,15,18.5,1,Standard Bike,34.6,1,526.48,150.56
+ORD_10288,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,2.28,10,9.0,0,EV Refrig Bike,33.9,0,995.51,0.0
+ORD_10289,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,1.02,10,8.5,0,EV Refrig Bike,28.5,0,1004.23,0.0
+ORD_10290,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,1.85,10,9.3,0,EV Refrig Bike,28.8,0,340.75,0.0
+ORD_10291,DS_MUM_02,Mumbai,Andheri East,Beverages,5.41,15,25.0,1,Standard Bike,33.2,0,828.87,0.0
+ORD_10292,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,2.67,15,13.1,0,EV Refrig Bike,34.0,0,1390.28,0.0
+ORD_10293,DS_BLR_03,Bengaluru,Whitefield,Beverages,2.0,10,12.0,1,Standard Bike,33.0,0,526.29,0.0
+ORD_10294,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,4.7,15,20.2,1,Standard Bike,33.9,1,811.46,205.34
+ORD_10295,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,4.0,15,16.9,1,EV Refrig Bike,35.0,0,1690.91,0.0
+ORD_10296,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,1.8,10,11.5,1,Standard Bike,36.4,0,538.46,0.0
+ORD_10297,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,5.19,15,20.1,1,EV Refrig Bike,28.5,0,1651.07,0.0
+ORD_10298,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,4.15,15,14.9,0,Standard Bike,34.1,1,1414.63,190.61
+ORD_10299,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,0.57,10,4.2,0,EV Refrig Bike,28.4,0,677.37,0.0
+ORD_10300,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,1.75,10,11.2,1,Standard Bike,32.5,0,1453.9,0.0
+ORD_10301,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,4.77,15,23.2,1,EV Refrig Bike,33.6,0,786.18,0.0
+ORD_10302,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,2.24,10,8.4,0,EV Refrig Bike,34.6,0,1743.26,0.0
+ORD_10303,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,2.47,10,12.3,1,Standard Bike,34.2,0,1016.45,0.0
+ORD_10304,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,3.77,15,18.1,1,Standard Bike,32.6,1,1193.22,441.6
+ORD_10305,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,0.61,10,5.5,0,EV Refrig Bike,28.9,0,1309.82,0.0
+ORD_10306,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,1.07,10,7.9,0,EV Refrig Bike,28.7,0,1347.14,0.0
+ORD_10307,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,1.63,10,8.4,0,EV Refrig Bike,29.4,0,1279.49,0.0
+ORD_10308,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,2.81,15,14.0,0,EV Refrig Bike,33.5,0,346.52,0.0
+ORD_10309,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,2.28,10,11.4,1,EV Refrig Bike,33.0,0,776.66,0.0
+ORD_10310,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,2.15,10,10.4,1,Standard Bike,30.0,0,1610.64,0.0
+ORD_10311,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,1.78,10,9.2,0,EV Refrig Bike,35.5,0,1114.87,0.0
+ORD_10312,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.82,15,12.1,0,EV Refrig Bike,33.0,0,413.48,0.0
+ORD_10313,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,2.49,10,13.3,1,EV Refrig Bike,30.0,0,539.42,0.0
+ORD_10314,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,4.46,15,18.6,1,EV Refrig Bike,36.0,0,863.75,0.0
+ORD_10315,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,3.1,15,14.5,0,EV Refrig Bike,29.7,0,1200.88,0.0
+ORD_10316,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,1.88,10,7.7,0,Standard Bike,30.0,0,535.55,0.0
+ORD_10317,DS_MUM_02,Mumbai,Andheri East,Beverages,4.6,15,21.2,1,Standard Bike,37.7,0,1578.15,0.0
+ORD_10318,DS_BLR_01,Bengaluru,Koramangala,Beverages,3.03,15,12.0,0,EV Refrig Bike,37.8,0,1285.28,0.0
+ORD_10319,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,5.49,15,19.7,1,Standard Bike,29.3,1,394.2,356.06
+ORD_10320,DS_MUM_01,Mumbai,Bandra West,Beverages,4.95,15,24.0,1,EV Refrig Bike,29.9,0,1580.17,0.0
+ORD_10321,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.05,10,9.1,0,EV Refrig Bike,37.0,0,1260.09,0.0
+ORD_10322,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,2.97,15,11.9,0,EV Refrig Bike,29.7,0,1353.62,0.0
+ORD_10323,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,4.1,15,19.3,1,EV Refrig Bike,35.4,0,546.45,0.0
+ORD_10324,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,3.6,15,17.7,1,Standard Bike,32.7,1,1232.92,443.73
+ORD_10325,DS_MUM_01,Mumbai,Bandra West,Beverages,1.03,10,5.6,0,EV Refrig Bike,34.8,0,509.05,0.0
+ORD_10326,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,4.69,15,21.2,1,EV Refrig Bike,34.9,0,1044.61,0.0
+ORD_10327,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,0.84,10,6.1,0,EV Refrig Bike,35.6,0,1650.59,0.0
+ORD_10328,DS_BLR_01,Bengaluru,Koramangala,Beverages,4.44,15,16.6,1,EV Refrig Bike,37.1,0,1289.64,0.0
+ORD_10329,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,2.45,10,11.2,1,Standard Bike,31.8,1,889.78,188.65
+ORD_10330,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,2.61,15,15.2,1,Standard Bike,37.2,1,1580.43,234.01
+ORD_10331,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,4.63,15,19.3,1,Standard Bike,37.8,0,1213.08,0.0
+ORD_10332,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,4.65,15,21.9,1,EV Refrig Bike,29.1,0,1340.71,0.0
+ORD_10333,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,1.82,10,11.4,1,Standard Bike,30.8,1,365.07,397.36
+ORD_10334,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,4.22,15,22.1,1,EV Refrig Bike,36.5,0,1285.1,0.0
+ORD_10335,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,5.45,15,21.0,1,EV Refrig Bike,36.4,0,692.2,0.0
+ORD_10336,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,5.48,15,19.8,1,EV Refrig Bike,28.6,0,1538.63,0.0
+ORD_10337,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,4.19,15,15.6,1,Standard Bike,36.7,1,1731.53,169.41
+ORD_10338,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,2.65,15,13.0,0,EV Refrig Bike,35.7,0,1182.98,0.0
+ORD_10339,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,1.35,10,7.5,0,EV Refrig Bike,35.9,0,1241.39,0.0
+ORD_10340,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,1.02,10,7.4,0,Standard Bike,34.5,0,1723.32,0.0
+ORD_10341,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,5.42,15,22.9,1,EV Refrig Bike,36.9,0,254.53,0.0
+ORD_10342,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,0.73,10,5.8,0,Standard Bike,37.7,0,763.59,0.0
+ORD_10343,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,2.85,15,13.3,0,EV Refrig Bike,33.9,0,1082.36,0.0
+ORD_10344,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.6,10,8.7,0,EV Refrig Bike,31.4,0,1494.01,0.0
+ORD_10345,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,2.48,10,12.8,1,EV Refrig Bike,36.2,0,691.07,0.0
+ORD_10346,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,2.23,10,12.7,1,EV Refrig Bike,32.9,0,1338.5,0.0
+ORD_10347,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,5.15,15,22.7,1,Standard Bike,35.3,1,1289.96,414.68
+ORD_10348,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,2.05,10,11.7,1,Standard Bike,36.2,1,1236.42,150.47
+ORD_10349,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,4.65,15,23.7,1,Standard Bike,30.6,0,1281.2,0.0
+ORD_10350,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,2.35,10,12.6,1,EV Refrig Bike,35.5,0,360.06,0.0
+ORD_10351,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,4.25,15,18.8,1,EV Refrig Bike,34.5,0,1626.46,0.0
+ORD_10352,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,3.68,15,14.8,0,Standard Bike,36.7,1,436.87,367.19
+ORD_10353,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,4.65,15,18.0,1,EV Refrig Bike,34.9,0,1075.36,0.0
+ORD_10354,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,3.39,15,15.8,1,Standard Bike,33.6,1,1380.22,252.95
+ORD_10355,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,2.44,10,10.6,1,EV Refrig Bike,28.8,0,1090.93,0.0
+ORD_10356,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,2.73,15,13.2,0,EV Refrig Bike,36.6,0,1670.78,0.0
+ORD_10357,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,4.95,15,23.2,1,Standard Bike,28.3,1,1065.01,267.89
+ORD_10358,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.65,15,15.5,1,EV Refrig Bike,31.5,0,489.41,0.0
+ORD_10359,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,2.39,10,13.1,1,Standard Bike,35.9,1,406.95,328.8
+ORD_10360,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,2.32,10,14.4,1,EV Refrig Bike,32.5,0,1316.83,0.0
+ORD_10361,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,1.64,10,8.6,0,Standard Bike,29.4,0,403.92,0.0
+ORD_10362,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,2.44,10,11.2,1,EV Refrig Bike,35.6,0,960.71,0.0
+ORD_10363,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,4.68,15,19.5,1,EV Refrig Bike,32.7,0,938.4,0.0
+ORD_10364,DS_BLR_02,Bengaluru,Indiranagar,Beverages,5.42,15,25.0,1,EV Refrig Bike,31.9,0,847.54,0.0
+ORD_10365,DS_HYD_01,Hyderabad,Hitech City,Beverages,5.4,15,21.8,1,EV Refrig Bike,29.7,0,632.71,0.0
+ORD_10366,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,2.01,10,10.0,0,Standard Bike,28.6,0,780.79,0.0
+ORD_10367,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,4.65,15,17.5,1,EV Refrig Bike,33.8,0,1799.56,0.0
+ORD_10368,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,2.94,15,15.9,1,Standard Bike,36.8,1,1132.53,337.02
+ORD_10369,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,4.15,15,20.9,1,EV Refrig Bike,35.1,0,1655.76,0.0
+ORD_10370,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,5.05,15,19.2,1,Standard Bike,36.7,0,452.51,0.0
+ORD_10371,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,0.79,10,6.3,0,Standard Bike,28.3,0,1752.89,0.0
+ORD_10372,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,5.4,15,23.1,1,Standard Bike,33.9,1,692.96,262.6
+ORD_10373,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,2.71,15,14.1,0,EV Refrig Bike,31.6,0,1374.86,0.0
+ORD_10374,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,2.54,15,12.4,0,Standard Bike,33.7,0,1731.87,0.0
+ORD_10375,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,0.8,10,7.8,0,EV Refrig Bike,31.0,0,622.59,0.0
+ORD_10376,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,2.74,15,13.4,0,Standard Bike,37.3,0,279.63,0.0
+ORD_10377,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,0.65,10,6.0,0,EV Refrig Bike,34.3,0,1248.93,0.0
+ORD_10378,DS_MUM_01,Mumbai,Bandra West,Beverages,1.89,10,12.7,1,EV Refrig Bike,28.1,0,1796.62,0.0
+ORD_10379,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,0.95,10,6.0,0,EV Refrig Bike,31.4,0,1231.0,0.0
+ORD_10380,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,4.27,15,17.2,1,Standard Bike,35.7,1,1201.09,403.78
+ORD_10381,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,4.12,15,19.3,1,EV Refrig Bike,28.2,0,724.51,0.0
+ORD_10382,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,4.54,15,14.9,0,EV Refrig Bike,37.6,0,1059.99,0.0
+ORD_10383,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,1.06,10,6.0,0,EV Refrig Bike,32.8,0,475.05,0.0
+ORD_10384,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,1.98,10,10.3,1,EV Refrig Bike,36.0,0,1690.3,0.0
+ORD_10385,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,0.61,10,7.3,0,EV Refrig Bike,33.5,0,589.87,0.0
+ORD_10386,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,2.29,10,9.5,0,Standard Bike,36.9,0,1029.78,0.0
+ORD_10387,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,4.61,15,19.2,1,EV Refrig Bike,33.3,0,967.92,0.0
+ORD_10388,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,4.52,15,18.5,1,EV Refrig Bike,29.4,0,1451.79,0.0
+ORD_10389,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,1.29,10,9.0,0,EV Refrig Bike,35.2,0,670.9,0.0
+ORD_10390,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,0.5,10,3.8,0,EV Refrig Bike,30.8,0,1345.81,0.0
+ORD_10391,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,2.83,15,15.5,1,Standard Bike,28.8,1,1531.41,429.27
+ORD_10392,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,4.71,15,21.6,1,Standard Bike,36.9,1,1660.41,280.15
+ORD_10393,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,3.88,15,16.9,1,EV Refrig Bike,33.6,0,1691.76,0.0
+ORD_10394,DS_BLR_01,Bengaluru,Koramangala,Beverages,0.52,10,6.8,0,EV Refrig Bike,34.7,0,1747.37,0.0
+ORD_10395,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,3.88,15,13.8,0,EV Refrig Bike,32.8,0,1233.23,0.0
+ORD_10396,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,2.3,10,10.4,1,Standard Bike,32.3,0,959.43,0.0
+ORD_10397,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,4.35,15,22.8,1,EV Refrig Bike,29.9,0,1105.71,0.0
+ORD_10398,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.56,10,8.7,0,EV Refrig Bike,36.8,0,584.4,0.0
+ORD_10399,DS_MUM_02,Mumbai,Andheri East,Beverages,0.68,10,8.0,0,Standard Bike,29.3,0,1392.5,0.0
+ORD_10400,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,2.48,10,10.2,1,EV Refrig Bike,36.9,0,695.48,0.0
+ORD_10401,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,4.62,15,17.7,1,Standard Bike,29.0,1,624.93,356.41
+ORD_10402,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,0.6,10,5.9,0,EV Refrig Bike,32.9,0,876.65,0.0
+ORD_10403,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,1.83,10,11.0,1,EV Refrig Bike,28.4,0,866.35,0.0
+ORD_10404,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,4.37,15,16.9,1,EV Refrig Bike,37.8,0,444.6,0.0
+ORD_10405,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,2.41,10,11.0,1,Standard Bike,32.4,0,764.75,0.0
+ORD_10406,DS_BLR_01,Bengaluru,Koramangala,Beverages,3.09,15,14.1,0,EV Refrig Bike,28.0,0,714.69,0.0
+ORD_10407,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,4.9,15,19.1,1,EV Refrig Bike,36.3,0,1189.53,0.0
+ORD_10408,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.49,10,11.0,1,EV Refrig Bike,30.3,0,632.24,0.0
+ORD_10409,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,0.8,10,6.8,0,EV Refrig Bike,37.9,0,620.7,0.0
+ORD_10410,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,3.22,15,11.2,0,EV Refrig Bike,31.7,0,599.34,0.0
+ORD_10411,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,4.98,15,17.5,1,EV Refrig Bike,30.8,0,1771.56,0.0
+ORD_10412,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,2.44,10,10.5,1,EV Refrig Bike,31.5,0,1672.1,0.0
+ORD_10413,DS_HYD_01,Hyderabad,Hitech City,Beverages,3.19,15,17.2,1,EV Refrig Bike,34.9,0,1692.44,0.0
+ORD_10414,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,2.74,15,16.1,1,EV Refrig Bike,33.3,0,624.93,0.0
+ORD_10415,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,5.31,15,22.2,1,Standard Bike,35.6,0,1097.63,0.0
+ORD_10416,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,0.72,10,6.5,0,EV Refrig Bike,30.1,0,327.47,0.0
+ORD_10417,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,5.47,15,21.1,1,EV Refrig Bike,34.6,0,418.78,0.0
+ORD_10418,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,5.47,15,22.3,1,EV Refrig Bike,33.7,0,652.29,0.0
+ORD_10419,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,1.38,10,7.1,0,EV Refrig Bike,28.1,0,1535.56,0.0
+ORD_10420,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,5.22,15,18.5,1,Standard Bike,37.8,0,1423.83,0.0
+ORD_10421,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,4.37,15,18.2,1,Standard Bike,32.6,0,1461.09,0.0
+ORD_10422,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,4.36,15,16.2,1,EV Refrig Bike,28.1,0,803.4,0.0
+ORD_10423,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,4.52,15,22.9,1,EV Refrig Bike,29.8,0,1047.76,0.0
+ORD_10424,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,2.64,15,14.3,0,EV Refrig Bike,34.6,0,433.68,0.0
+ORD_10425,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,5.45,15,19.1,1,EV Refrig Bike,33.1,0,996.4,0.0
+ORD_10426,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,4.27,15,17.8,1,Standard Bike,33.8,1,1470.7,257.14
+ORD_10427,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,3.37,15,16.7,1,EV Refrig Bike,37.0,0,1609.9,0.0
+ORD_10428,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,3.03,15,13.1,0,EV Refrig Bike,28.4,0,521.59,0.0
+ORD_10429,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,1.62,10,10.3,1,EV Refrig Bike,33.6,0,912.63,0.0
+ORD_10430,DS_MUM_01,Mumbai,Bandra West,Beverages,1.91,10,12.1,1,EV Refrig Bike,37.5,0,1633.47,0.0
+ORD_10431,DS_MUM_02,Mumbai,Andheri East,Beverages,4.62,15,17.2,1,Standard Bike,30.0,0,645.73,0.0
+ORD_10432,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,4.78,15,19.7,1,EV Refrig Bike,28.7,0,1708.22,0.0
+ORD_10433,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,0.98,10,5.0,0,Standard Bike,35.3,0,1449.55,0.0
+ORD_10434,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,1.26,10,7.7,0,EV Refrig Bike,30.8,0,909.1,0.0
+ORD_10435,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,3.23,15,14.7,0,Standard Bike,28.6,1,1370.85,258.65
+ORD_10436,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,2.02,10,10.0,0,EV Refrig Bike,28.0,0,1380.48,0.0
+ORD_10437,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,4.16,15,16.5,1,EV Refrig Bike,35.6,0,1194.93,0.0
+ORD_10438,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,4.06,15,14.5,0,EV Refrig Bike,31.7,0,1648.01,0.0
+ORD_10439,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,1.6,10,8.9,0,EV Refrig Bike,29.5,0,840.07,0.0
+ORD_10440,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,4.05,15,20.1,1,Standard Bike,33.8,1,315.75,435.67
+ORD_10441,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,5.25,15,18.7,1,EV Refrig Bike,33.6,0,1460.13,0.0
+ORD_10442,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,2.35,10,11.9,1,Standard Bike,35.0,1,965.66,364.3
+ORD_10443,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.13,10,6.6,0,EV Refrig Bike,28.3,0,330.44,0.0
+ORD_10444,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,2.18,10,11.4,1,EV Refrig Bike,35.0,0,1376.94,0.0
+ORD_10445,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.25,15,15.3,1,Standard Bike,33.1,1,1655.19,266.17
+ORD_10446,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,4.69,15,23.5,1,EV Refrig Bike,37.7,0,928.38,0.0
+ORD_10447,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,3.01,15,13.2,0,EV Refrig Bike,33.4,0,915.87,0.0
+ORD_10448,DS_MUM_02,Mumbai,Andheri East,Beverages,4.81,15,23.0,1,Standard Bike,33.5,0,864.66,0.0
+ORD_10449,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,4.54,15,18.3,1,Standard Bike,31.2,0,1515.44,0.0
+ORD_10450,DS_BLR_01,Bengaluru,Koramangala,Beverages,1.75,10,9.7,0,EV Refrig Bike,36.3,0,1654.43,0.0
+ORD_10451,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,1.31,10,6.9,0,EV Refrig Bike,31.9,0,546.71,0.0
+ORD_10452,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,2.17,10,10.1,1,EV Refrig Bike,28.7,0,1464.83,0.0
+ORD_10453,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,2.17,10,8.9,0,EV Refrig Bike,30.1,0,841.23,0.0
+ORD_10454,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,3.86,15,14.7,0,EV Refrig Bike,32.2,0,1413.96,0.0
+ORD_10455,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,2.13,10,11.6,1,EV Refrig Bike,28.1,0,947.68,0.0
+ORD_10456,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,5.35,15,23.9,1,EV Refrig Bike,35.4,0,1342.06,0.0
+ORD_10457,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,3.1,15,16.4,1,EV Refrig Bike,33.2,0,1397.25,0.0
+ORD_10458,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,3.78,15,14.8,0,EV Refrig Bike,28.8,0,367.15,0.0
+ORD_10459,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,2.65,15,11.8,0,EV Refrig Bike,28.9,0,1107.74,0.0
+ORD_10460,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,5.33,15,23.8,1,Standard Bike,35.1,1,735.01,333.0
+ORD_10461,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,0.51,10,4.4,0,EV Refrig Bike,32.5,0,1199.0,0.0
+ORD_10462,DS_BLR_03,Bengaluru,Whitefield,Beverages,4.91,15,22.3,1,Standard Bike,35.0,0,1304.17,0.0
+ORD_10463,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,2.43,10,10.9,1,EV Refrig Bike,37.4,0,591.75,0.0
+ORD_10464,DS_BLR_01,Bengaluru,Koramangala,Beverages,1.44,10,10.3,1,EV Refrig Bike,29.0,0,262.9,0.0
+ORD_10465,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,4.95,15,24.3,1,EV Refrig Bike,36.6,0,1516.74,0.0
+ORD_10466,DS_BLR_03,Bengaluru,Whitefield,Beverages,0.55,10,6.2,0,Standard Bike,34.4,0,625.13,0.0
+ORD_10467,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,3.77,15,13.1,0,EV Refrig Bike,37.1,0,295.73,0.0
+ORD_10468,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.85,10,8.9,0,EV Refrig Bike,32.6,0,1385.74,0.0
+ORD_10469,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,3.47,15,15.2,1,EV Refrig Bike,36.8,0,844.09,0.0
+ORD_10470,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,3.22,15,16.2,1,EV Refrig Bike,35.4,0,1393.77,0.0
+ORD_10471,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,4.35,15,17.3,1,EV Refrig Bike,36.0,0,767.09,0.0
+ORD_10472,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,4.98,15,20.3,1,EV Refrig Bike,32.5,0,1226.88,0.0
+ORD_10473,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,4.67,15,19.3,1,Standard Bike,29.4,1,900.05,385.2
+ORD_10474,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,2.72,15,14.0,0,Standard Bike,33.0,1,1011.2,166.85
+ORD_10475,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,1.91,10,7.8,0,EV Refrig Bike,32.1,0,1682.24,0.0
+ORD_10476,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,0.85,10,7.8,0,Standard Bike,36.8,0,1511.89,0.0
+ORD_10477,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,4.53,15,23.8,1,EV Refrig Bike,32.4,0,1107.74,0.0
+ORD_10478,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,2.27,10,11.7,1,EV Refrig Bike,31.1,0,1666.37,0.0
+ORD_10479,DS_HYD_01,Hyderabad,Hitech City,Beverages,3.66,15,15.6,1,EV Refrig Bike,30.3,0,743.84,0.0
+ORD_10480,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,3.27,15,13.4,0,Standard Bike,36.6,1,1548.76,353.08
+ORD_10481,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,2.57,15,13.4,0,Standard Bike,32.6,1,1368.99,273.33
+ORD_10482,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,1.09,10,6.1,0,EV Refrig Bike,35.2,0,1385.22,0.0
+ORD_10483,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,3.21,15,14.7,0,EV Refrig Bike,35.3,0,1616.58,0.0
+ORD_10484,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,1.03,10,7.8,0,EV Refrig Bike,34.1,0,630.3,0.0
+ORD_10485,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,1.84,10,11.4,1,Standard Bike,33.7,1,892.84,445.87
+ORD_10486,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.2,15,14.5,0,EV Refrig Bike,29.7,0,1025.17,0.0
+ORD_10487,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,3.38,15,19.2,1,Standard Bike,35.0,1,1696.35,298.71
+ORD_10488,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,3.96,15,18.0,1,Standard Bike,37.0,1,1037.1,211.29
+ORD_10489,DS_MUM_02,Mumbai,Andheri East,Beverages,3.56,15,14.9,0,Standard Bike,32.1,0,1622.71,0.0
+ORD_10490,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,1.77,10,11.9,1,Standard Bike,33.4,1,1523.15,400.84
+ORD_10491,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,1.14,10,8.2,0,EV Refrig Bike,33.1,0,1521.93,0.0
+ORD_10492,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,2.83,15,14.5,0,EV Refrig Bike,36.0,0,1647.75,0.0
+ORD_10493,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,0.71,10,5.0,0,EV Refrig Bike,35.4,0,1564.29,0.0
+ORD_10494,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,0.87,10,8.2,0,EV Refrig Bike,32.3,0,1795.63,0.0
+ORD_10495,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,2.73,15,15.5,1,Standard Bike,34.1,1,830.44,361.99
+ORD_10496,DS_MUM_01,Mumbai,Bandra West,Beverages,3.78,15,13.4,0,EV Refrig Bike,30.2,0,1275.61,0.0
+ORD_10497,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.66,15,16.4,1,EV Refrig Bike,28.5,0,1150.57,0.0
+ORD_10498,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,4.41,15,18.3,1,EV Refrig Bike,33.2,0,467.5,0.0
+ORD_10499,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,4.07,15,18.4,1,Standard Bike,31.5,1,495.95,267.23
+ORD_10500,DS_HYD_01,Hyderabad,Hitech City,Beverages,3.49,15,16.3,1,EV Refrig Bike,33.8,0,1230.21,0.0
+ORD_10501,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,2.57,15,11.3,0,EV Refrig Bike,33.9,0,537.33,0.0
+ORD_10502,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,2.62,15,11.4,0,Standard Bike,29.9,1,1329.04,173.09
+ORD_10503,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,2.75,15,11.3,0,EV Refrig Bike,33.5,0,1076.54,0.0
+ORD_10504,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,3.68,15,15.9,1,Standard Bike,29.9,0,1326.69,0.0
+ORD_10505,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,4.62,15,23.1,1,Standard Bike,36.2,1,1774.12,288.46
+ORD_10506,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,3.99,15,17.3,1,EV Refrig Bike,28.3,0,652.34,0.0
+ORD_10507,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,4.94,15,18.8,1,EV Refrig Bike,36.6,0,1464.85,0.0
+ORD_10508,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,4.94,15,22.8,1,EV Refrig Bike,38.0,0,1529.39,0.0
+ORD_10509,DS_BLR_02,Bengaluru,Indiranagar,Beverages,4.56,15,19.6,1,EV Refrig Bike,36.3,0,1649.8,0.0
+ORD_10510,DS_MUM_02,Mumbai,Andheri East,Beverages,4.53,15,18.9,1,Standard Bike,30.4,0,312.54,0.0
+ORD_10511,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,5.31,15,20.4,1,Standard Bike,32.1,1,374.34,154.11
+ORD_10512,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,0.57,10,6.2,0,Standard Bike,35.6,0,310.35,0.0
+ORD_10513,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,0.53,10,5.1,0,Standard Bike,32.0,0,855.42,0.0
+ORD_10514,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,4.28,15,19.0,1,EV Refrig Bike,31.9,0,604.76,0.0
+ORD_10515,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,2.4,10,12.7,1,Standard Bike,34.3,0,977.39,0.0
+ORD_10516,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,3.75,15,15.8,1,Standard Bike,33.9,0,332.69,0.0
+ORD_10517,DS_BLR_03,Bengaluru,Whitefield,Beverages,2.31,10,9.0,0,Standard Bike,37.3,0,1229.05,0.0
+ORD_10518,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,3.99,15,15.4,1,Standard Bike,29.6,1,1178.92,340.78
+ORD_10519,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,0.71,10,6.0,0,Standard Bike,37.5,0,343.94,0.0
+ORD_10520,DS_BLR_02,Bengaluru,Indiranagar,Beverages,3.55,15,16.1,1,EV Refrig Bike,36.0,0,1739.43,0.0
+ORD_10521,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,5.27,15,19.3,1,Standard Bike,36.3,1,371.76,342.77
+ORD_10522,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,2.27,10,11.0,1,Standard Bike,32.2,0,381.08,0.0
+ORD_10523,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,1.73,10,9.6,0,EV Refrig Bike,33.0,0,1763.09,0.0
+ORD_10524,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,4.19,15,20.0,1,EV Refrig Bike,38.0,0,296.54,0.0
+ORD_10525,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,3.52,15,16.7,1,EV Refrig Bike,35.8,0,448.3,0.0
+ORD_10526,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,5.38,15,21.0,1,EV Refrig Bike,37.4,0,381.91,0.0
+ORD_10527,DS_BLR_03,Bengaluru,Whitefield,Beverages,2.58,15,13.5,0,Standard Bike,28.6,0,1710.69,0.0
+ORD_10528,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,1.24,10,8.4,0,EV Refrig Bike,37.7,0,931.6,0.0
+ORD_10529,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,1.54,10,7.6,0,EV Refrig Bike,28.2,0,1531.26,0.0
+ORD_10530,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,3.87,15,17.9,1,EV Refrig Bike,36.1,0,477.73,0.0
+ORD_10531,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,5.43,15,21.7,1,EV Refrig Bike,36.3,0,1345.35,0.0
+ORD_10532,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,1.19,10,7.8,0,EV Refrig Bike,29.4,0,1217.2,0.0
+ORD_10533,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,4.88,15,22.1,1,EV Refrig Bike,32.0,0,1358.54,0.0
+ORD_10534,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,2.79,15,12.6,0,Standard Bike,34.7,1,1586.41,383.11
+ORD_10535,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,1.13,10,8.6,0,Standard Bike,37.4,0,274.53,0.0
+ORD_10536,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,4.21,15,17.6,1,Standard Bike,36.4,1,1582.68,258.42
+ORD_10537,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,3.99,15,17.4,1,EV Refrig Bike,37.0,0,1629.32,0.0
+ORD_10538,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,3.34,15,14.5,0,EV Refrig Bike,34.4,0,606.23,0.0
+ORD_10539,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,4.21,15,17.4,1,Standard Bike,36.5,0,506.22,0.0
+ORD_10540,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,1.41,10,7.2,0,Standard Bike,37.3,0,1753.39,0.0
+ORD_10541,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,4.43,15,21.6,1,EV Refrig Bike,36.9,0,773.09,0.0
+ORD_10542,DS_BLR_03,Bengaluru,Whitefield,Beverages,4.48,15,21.3,1,Standard Bike,30.2,0,588.22,0.0
+ORD_10543,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,3.44,15,14.7,0,EV Refrig Bike,34.0,0,332.95,0.0
+ORD_10544,DS_MUM_01,Mumbai,Bandra West,Beverages,1.26,10,7.6,0,EV Refrig Bike,28.9,0,1003.5,0.0
+ORD_10545,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,5.22,15,22.0,1,EV Refrig Bike,35.9,0,1164.42,0.0
+ORD_10546,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,4.3,15,20.0,1,Standard Bike,32.3,1,1799.31,329.07
+ORD_10547,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,4.04,15,17.9,1,EV Refrig Bike,35.6,0,320.45,0.0
+ORD_10548,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,3.58,15,14.1,0,EV Refrig Bike,33.0,0,327.88,0.0
+ORD_10549,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,4.76,15,19.3,1,EV Refrig Bike,36.0,0,1418.29,0.0
+ORD_10550,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,0.75,10,4.7,0,EV Refrig Bike,34.1,0,685.63,0.0
+ORD_10551,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,3.55,15,15.2,1,EV Refrig Bike,33.7,0,1259.85,0.0
+ORD_10552,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,3.89,15,18.0,1,EV Refrig Bike,31.9,0,352.56,0.0
+ORD_10553,DS_MUM_02,Mumbai,Andheri East,Beverages,2.66,15,13.4,0,Standard Bike,32.2,0,703.4,0.0
+ORD_10554,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,3.84,15,13.8,0,Standard Bike,34.1,0,1301.67,0.0
+ORD_10555,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,3.6,15,15.3,1,EV Refrig Bike,31.5,0,1665.04,0.0
+ORD_10556,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,0.55,10,6.5,0,EV Refrig Bike,34.2,0,1784.67,0.0
+ORD_10557,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,1.21,10,9.6,0,EV Refrig Bike,28.9,0,1787.13,0.0
+ORD_10558,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,1.43,10,10.6,1,EV Refrig Bike,28.6,0,393.16,0.0
+ORD_10559,DS_HYD_01,Hyderabad,Hitech City,Beverages,1.86,10,10.2,1,EV Refrig Bike,37.1,0,543.56,0.0
+ORD_10560,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,3.81,15,16.3,1,EV Refrig Bike,33.8,0,1651.76,0.0
+ORD_10561,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,5.21,15,19.1,1,Standard Bike,36.6,1,1361.54,224.84
+ORD_10562,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,4.98,15,17.2,1,Standard Bike,34.9,0,671.03,0.0
+ORD_10563,DS_BLR_01,Bengaluru,Koramangala,Beverages,5.2,15,21.7,1,EV Refrig Bike,36.2,0,518.68,0.0
+ORD_10564,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,1.94,10,9.5,0,Standard Bike,34.0,0,922.46,0.0
+ORD_10565,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,2.45,10,10.6,1,Standard Bike,30.2,0,273.52,0.0
+ORD_10566,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,4.6,15,19.2,1,Standard Bike,37.0,0,869.25,0.0
+ORD_10567,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,0.91,10,8.4,0,EV Refrig Bike,29.0,0,367.27,0.0
+ORD_10568,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,5.4,15,21.9,1,Standard Bike,33.9,1,300.29,371.66
+ORD_10569,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,1.62,10,9.8,0,EV Refrig Bike,35.5,0,1119.95,0.0
+ORD_10570,DS_MUM_02,Mumbai,Andheri East,Beverages,5.42,15,25.2,1,Standard Bike,32.3,0,788.65,0.0
+ORD_10571,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,0.64,10,4.9,0,Standard Bike,37.9,0,1140.38,0.0
+ORD_10572,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,2.3,10,11.9,1,EV Refrig Bike,32.8,0,793.77,0.0
+ORD_10573,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,0.76,10,5.0,0,EV Refrig Bike,36.3,0,805.42,0.0
+ORD_10574,DS_MUM_02,Mumbai,Andheri East,Beverages,1.61,10,10.7,1,Standard Bike,36.2,0,846.15,0.0
+ORD_10575,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,1.52,10,10.7,1,EV Refrig Bike,28.8,0,902.18,0.0
+ORD_10576,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.88,15,12.3,0,EV Refrig Bike,34.6,0,1755.28,0.0
+ORD_10577,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,4.72,15,20.0,1,EV Refrig Bike,33.1,0,1449.04,0.0
+ORD_10578,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,0.88,10,7.2,0,Standard Bike,32.0,0,1542.15,0.0
+ORD_10579,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.69,15,13.4,0,EV Refrig Bike,32.4,0,1412.54,0.0
+ORD_10580,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,3.79,15,18.3,1,EV Refrig Bike,29.8,0,493.06,0.0
+ORD_10581,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.28,10,8.7,0,EV Refrig Bike,35.1,0,398.38,0.0
+ORD_10582,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,4.16,15,14.4,0,EV Refrig Bike,36.9,0,1698.17,0.0
+ORD_10583,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,2.08,10,9.7,0,Standard Bike,31.1,0,316.73,0.0
+ORD_10584,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,4.16,15,14.6,0,Standard Bike,36.3,1,1559.23,312.09
+ORD_10585,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,4.34,15,17.8,1,EV Refrig Bike,30.5,0,1098.58,0.0
+ORD_10586,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.37,15,13.9,0,EV Refrig Bike,30.7,0,259.89,0.0
+ORD_10587,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,2.12,10,10.5,1,EV Refrig Bike,36.6,0,1521.66,0.0
+ORD_10588,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,2.5,10,10.4,1,Standard Bike,37.9,0,289.94,0.0
+ORD_10589,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,2.8,15,12.5,0,EV Refrig Bike,30.0,0,351.82,0.0
+ORD_10590,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,2.04,10,10.2,1,Standard Bike,29.6,0,514.95,0.0
+ORD_10591,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,4.49,15,18.2,1,EV Refrig Bike,31.4,0,1497.69,0.0
+ORD_10592,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,3.51,15,16.0,1,EV Refrig Bike,28.2,0,1544.17,0.0
+ORD_10593,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,1.82,10,9.5,0,Standard Bike,28.4,0,1686.72,0.0
+ORD_10594,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,3.37,15,13.5,0,Standard Bike,33.8,1,1470.43,153.39
+ORD_10595,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,3.99,15,17.9,1,Standard Bike,28.1,1,1079.82,168.57
+ORD_10596,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,5.02,15,21.3,1,Standard Bike,28.5,1,1540.16,277.84
+ORD_10597,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,2.09,10,9.8,0,EV Refrig Bike,28.9,0,549.54,0.0
+ORD_10598,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,4.85,15,21.5,1,EV Refrig Bike,35.5,0,329.51,0.0
+ORD_10599,DS_MUM_01,Mumbai,Bandra West,Beverages,4.14,15,18.3,1,EV Refrig Bike,33.5,0,585.19,0.0
+ORD_10600,DS_MUM_02,Mumbai,Andheri East,Beverages,4.3,15,18.6,1,Standard Bike,30.7,0,809.67,0.0
+ORD_10601,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,1.36,10,8.3,0,EV Refrig Bike,31.4,0,1494.42,0.0
+ORD_10602,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,1.8,10,10.7,1,Standard Bike,31.0,0,606.49,0.0
+ORD_10603,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,4.88,15,16.8,1,Standard Bike,33.5,1,320.21,181.68
+ORD_10604,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,2.3,10,10.1,1,Standard Bike,28.8,0,1788.5,0.0
+ORD_10605,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,1.09,10,7.4,0,EV Refrig Bike,35.6,0,1035.98,0.0
+ORD_10606,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,2.84,15,12.5,0,Standard Bike,32.3,1,1124.56,249.09
+ORD_10607,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,0.62,10,5.2,0,EV Refrig Bike,29.3,0,404.3,0.0
+ORD_10608,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,4.59,15,23.6,1,Standard Bike,37.9,1,575.99,238.22
+ORD_10609,DS_BLR_02,Bengaluru,Indiranagar,Beverages,3.51,15,13.6,0,EV Refrig Bike,30.9,0,394.57,0.0
+ORD_10610,DS_BLR_03,Bengaluru,Whitefield,Beverages,2.12,10,10.8,1,Standard Bike,34.0,0,1307.93,0.0
+ORD_10611,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,2.39,10,11.0,1,EV Refrig Bike,32.6,0,1711.75,0.0
+ORD_10612,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,4.24,15,17.6,1,EV Refrig Bike,29.3,0,1189.3,0.0
+ORD_10613,DS_MUM_01,Mumbai,Bandra West,Beverages,1.07,10,5.7,0,EV Refrig Bike,33.9,0,887.63,0.0
+ORD_10614,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,0.57,10,5.2,0,EV Refrig Bike,28.3,0,1228.63,0.0
+ORD_10615,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,4.12,15,17.9,1,EV Refrig Bike,36.1,0,866.72,0.0
+ORD_10616,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,3.38,15,14.7,0,Standard Bike,28.7,0,389.31,0.0
+ORD_10617,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,4.5,15,15.4,1,EV Refrig Bike,36.5,0,1786.75,0.0
+ORD_10618,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,3.99,15,16.4,1,EV Refrig Bike,34.8,0,1303.43,0.0
+ORD_10619,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,1.77,10,7.6,0,EV Refrig Bike,37.2,0,755.03,0.0
+ORD_10620,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,0.58,10,5.0,0,Standard Bike,34.7,0,1112.7,0.0
+ORD_10621,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,4.57,15,16.6,1,Standard Bike,33.0,1,1636.11,245.48
+ORD_10622,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,4.4,15,18.7,1,Standard Bike,35.1,0,802.72,0.0
+ORD_10623,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,0.96,10,8.4,0,Standard Bike,36.2,0,1643.12,0.0
+ORD_10624,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,3.24,15,15.4,1,Standard Bike,31.9,1,397.2,222.09
+ORD_10625,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,0.91,10,8.5,0,EV Refrig Bike,32.0,0,385.86,0.0
+ORD_10626,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,3.41,15,13.2,0,EV Refrig Bike,31.1,0,874.19,0.0
+ORD_10627,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,3.46,15,13.9,0,Standard Bike,35.4,0,1283.26,0.0
+ORD_10628,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,4.0,15,17.3,1,EV Refrig Bike,33.0,0,1381.89,0.0
+ORD_10629,DS_MUM_02,Mumbai,Andheri East,Beverages,3.87,15,14.6,0,Standard Bike,32.9,0,1484.59,0.0
+ORD_10630,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,1.13,10,5.6,0,Standard Bike,32.8,0,1157.62,0.0
+ORD_10631,DS_MUM_01,Mumbai,Bandra West,Beverages,3.76,15,16.7,1,EV Refrig Bike,32.7,0,353.38,0.0
+ORD_10632,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,4.6,15,22.0,1,Standard Bike,34.9,1,727.04,225.69
+ORD_10633,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,5.39,15,19.7,1,EV Refrig Bike,36.9,0,365.69,0.0
+ORD_10634,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,1.45,10,8.6,0,Standard Bike,31.6,0,1662.58,0.0
+ORD_10635,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,5.12,15,19.4,1,EV Refrig Bike,31.0,0,1748.15,0.0
+ORD_10636,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,4.28,15,17.8,1,EV Refrig Bike,37.3,0,638.86,0.0
+ORD_10637,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.4,15,17.0,1,Standard Bike,32.7,1,507.38,173.02
+ORD_10638,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,5.49,15,21.6,1,Standard Bike,32.0,1,1619.07,184.54
+ORD_10639,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,3.57,15,14.9,0,Standard Bike,32.0,1,893.19,286.61
+ORD_10640,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,5.27,15,23.6,1,Standard Bike,34.0,1,872.27,324.52
+ORD_10641,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,1.31,10,6.1,0,EV Refrig Bike,34.2,0,1332.21,0.0
+ORD_10642,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,3.48,15,14.2,0,EV Refrig Bike,31.5,0,1494.67,0.0
+ORD_10643,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,3.89,15,14.8,0,EV Refrig Bike,29.7,0,1612.09,0.0
+ORD_10644,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,2.66,15,10.6,0,Standard Bike,37.4,0,1420.46,0.0
+ORD_10645,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,1.5,10,10.4,1,Standard Bike,37.2,0,807.68,0.0
+ORD_10646,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,5.2,15,25.2,1,EV Refrig Bike,37.7,0,524.59,0.0
+ORD_10647,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,4.51,15,18.5,1,EV Refrig Bike,38.0,0,266.27,0.0
+ORD_10648,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,4.55,15,14.7,0,EV Refrig Bike,37.8,0,383.5,0.0
+ORD_10649,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,3.33,15,15.9,1,Standard Bike,28.2,1,447.0,184.94
+ORD_10650,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,2.42,10,12.6,1,Standard Bike,28.5,0,1521.76,0.0
+ORD_10651,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,1.82,10,8.2,0,EV Refrig Bike,30.2,0,1699.84,0.0
+ORD_10652,DS_BLR_02,Bengaluru,Indiranagar,Beverages,3.49,15,17.5,1,EV Refrig Bike,33.4,0,1187.89,0.0
+ORD_10653,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,2.89,15,16.7,1,EV Refrig Bike,36.2,0,1471.0,0.0
+ORD_10654,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,1.63,10,7.3,0,Standard Bike,32.4,0,503.22,0.0
+ORD_10655,DS_BLR_03,Bengaluru,Whitefield,Beverages,1.72,10,8.9,0,Standard Bike,36.5,0,1726.24,0.0
+ORD_10656,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,4.7,15,21.6,1,Standard Bike,28.6,1,1139.49,171.35
+ORD_10657,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,1.51,10,7.8,0,Standard Bike,37.2,0,1455.61,0.0
+ORD_10658,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,3.21,15,12.0,0,EV Refrig Bike,37.5,0,1555.36,0.0
+ORD_10659,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,5.18,15,19.4,1,EV Refrig Bike,35.6,0,1304.87,0.0
+ORD_10660,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,5.45,15,22.3,1,EV Refrig Bike,29.4,0,842.32,0.0
+ORD_10661,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,3.86,15,16.5,1,EV Refrig Bike,31.3,0,1437.26,0.0
+ORD_10662,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,0.62,10,4.9,0,EV Refrig Bike,29.0,0,1732.92,0.0
+ORD_10663,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,5.32,15,24.2,1,EV Refrig Bike,29.7,0,329.01,0.0
+ORD_10664,DS_BLR_02,Bengaluru,Indiranagar,Beverages,3.89,15,16.3,1,EV Refrig Bike,37.2,0,362.74,0.0
+ORD_10665,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,3.74,15,14.0,0,EV Refrig Bike,34.9,0,1740.5,0.0
+ORD_10666,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,2.5,10,14.3,1,Standard Bike,29.8,1,768.0,389.75
+ORD_10667,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,4.16,15,18.3,1,Standard Bike,28.7,1,1733.66,204.37
+ORD_10668,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,2.58,15,11.8,0,Standard Bike,33.2,1,459.59,448.96
+ORD_10669,DS_HYD_01,Hyderabad,Hitech City,Beverages,5.47,15,26.7,1,EV Refrig Bike,33.7,0,922.78,0.0
+ORD_10670,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,1.54,10,10.0,0,Standard Bike,32.8,0,898.5,0.0
+ORD_10671,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,2.25,10,12.7,1,EV Refrig Bike,30.0,0,738.27,0.0
+ORD_10672,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,4.21,15,20.1,1,EV Refrig Bike,35.8,0,1124.03,0.0
+ORD_10673,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,4.22,15,16.9,1,EV Refrig Bike,33.1,0,452.28,0.0
+ORD_10674,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.81,10,10.5,1,EV Refrig Bike,33.1,0,696.69,0.0
+ORD_10675,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,5.04,15,20.5,1,EV Refrig Bike,31.2,0,412.25,0.0
+ORD_10676,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,2.86,15,15.5,1,Standard Bike,33.5,1,1058.13,272.21
+ORD_10677,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,1.88,10,8.6,0,EV Refrig Bike,33.9,0,739.92,0.0
+ORD_10678,DS_MUM_02,Mumbai,Andheri East,Beverages,2.65,15,13.5,0,Standard Bike,33.7,0,530.22,0.0
+ORD_10679,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,4.45,15,18.8,1,EV Refrig Bike,33.9,0,1163.96,0.0
+ORD_10680,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,0.91,10,6.2,0,EV Refrig Bike,33.2,0,581.69,0.0
+ORD_10681,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,2.3,10,10.7,1,EV Refrig Bike,36.6,0,728.64,0.0
+ORD_10682,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,0.6,10,7.8,0,EV Refrig Bike,32.6,0,1125.12,0.0
+ORD_10683,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,4.58,15,23.1,1,EV Refrig Bike,30.1,0,456.04,0.0
+ORD_10684,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,1.66,10,7.7,0,Standard Bike,30.2,0,464.09,0.0
+ORD_10685,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,2.58,15,14.5,0,Standard Bike,28.4,1,1304.74,303.66
+ORD_10686,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,5.38,15,22.3,1,EV Refrig Bike,31.0,0,1461.93,0.0
+ORD_10687,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,1.26,10,6.6,0,Standard Bike,29.8,0,1746.07,0.0
+ORD_10688,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,1.53,10,8.2,0,EV Refrig Bike,32.3,0,1250.09,0.0
+ORD_10689,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,2.49,10,14.0,1,EV Refrig Bike,37.2,0,1508.72,0.0
+ORD_10690,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,4.26,15,17.4,1,EV Refrig Bike,29.8,0,1732.25,0.0
+ORD_10691,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,4.44,15,15.6,1,Standard Bike,36.1,1,1179.95,174.72
+ORD_10692,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,2.01,10,11.2,1,Standard Bike,35.6,0,477.38,0.0
+ORD_10693,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,4.77,15,18.8,1,EV Refrig Bike,34.7,0,608.48,0.0
+ORD_10694,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,2.06,10,11.4,1,Standard Bike,29.4,1,759.68,435.72
+ORD_10695,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,5.22,15,18.0,1,EV Refrig Bike,35.8,0,1495.03,0.0
+ORD_10696,DS_MUM_02,Mumbai,Andheri East,Beverages,4.21,15,15.8,1,Standard Bike,36.7,0,511.73,0.0
+ORD_10697,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,5.3,15,21.6,1,EV Refrig Bike,29.9,0,1521.86,0.0
+ORD_10698,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,1.45,10,8.4,0,EV Refrig Bike,34.0,0,964.39,0.0
+ORD_10699,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,5.16,15,18.0,1,Standard Bike,32.7,0,1343.73,0.0
+ORD_10700,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,4.9,15,17.1,1,Standard Bike,32.1,1,323.15,415.91
+ORD_10701,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,4.81,15,22.1,1,EV Refrig Bike,34.3,0,1588.4,0.0
+ORD_10702,DS_BLR_02,Bengaluru,Indiranagar,Beverages,2.47,10,11.3,1,EV Refrig Bike,33.4,0,1762.46,0.0
+ORD_10703,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,3.14,15,14.3,0,EV Refrig Bike,32.6,0,301.57,0.0
+ORD_10704,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,1.19,10,6.3,0,EV Refrig Bike,28.7,0,1277.88,0.0
+ORD_10705,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,2.84,15,14.8,0,EV Refrig Bike,37.0,0,1572.53,0.0
+ORD_10706,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.79,15,15.0,0,EV Refrig Bike,33.1,0,747.32,0.0
+ORD_10707,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,4.73,15,18.9,1,EV Refrig Bike,31.8,0,1134.68,0.0
+ORD_10708,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,1.6,10,12.1,1,EV Refrig Bike,36.4,0,1400.55,0.0
+ORD_10709,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,4.16,15,16.7,1,Standard Bike,30.3,0,1343.62,0.0
+ORD_10710,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,2.24,10,12.1,1,EV Refrig Bike,35.2,0,421.44,0.0
+ORD_10711,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.04,10,8.8,0,EV Refrig Bike,30.7,0,1218.23,0.0
+ORD_10712,DS_HYD_01,Hyderabad,Hitech City,Beverages,2.21,10,12.0,1,EV Refrig Bike,33.1,0,1585.24,0.0
+ORD_10713,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,0.66,10,4.3,0,Standard Bike,36.1,0,747.12,0.0
+ORD_10714,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,1.74,10,11.5,1,Standard Bike,36.6,0,400.92,0.0
+ORD_10715,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,4.79,15,22.4,1,Standard Bike,29.2,1,1651.41,155.48
+ORD_10716,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,2.04,10,10.3,1,Standard Bike,28.7,0,540.04,0.0
+ORD_10717,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,1.62,10,9.3,0,Standard Bike,37.8,0,1502.19,0.0
+ORD_10718,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,1.03,10,5.1,0,Standard Bike,31.0,0,712.0,0.0
+ORD_10719,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,4.72,15,18.1,1,EV Refrig Bike,30.8,0,755.74,0.0
+ORD_10720,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,1.45,10,8.4,0,EV Refrig Bike,28.8,0,1730.94,0.0
+ORD_10721,DS_BLR_03,Bengaluru,Whitefield,Beverages,1.2,10,7.9,0,Standard Bike,30.1,0,429.12,0.0
+ORD_10722,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,5.05,15,20.2,1,EV Refrig Bike,30.0,0,690.49,0.0
+ORD_10723,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,5.26,15,19.3,1,Standard Bike,33.9,0,1336.45,0.0
+ORD_10724,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,3.02,15,13.8,0,EV Refrig Bike,34.5,0,491.45,0.0
+ORD_10725,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,4.47,15,19.0,1,Standard Bike,37.5,1,654.42,212.97
+ORD_10726,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,0.72,10,6.2,0,Standard Bike,37.5,0,468.86,0.0
+ORD_10727,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,3.04,15,13.3,0,Standard Bike,32.8,0,1440.35,0.0
+ORD_10728,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,1.23,10,9.1,0,Standard Bike,36.9,0,1219.42,0.0
+ORD_10729,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,4.6,15,19.3,1,EV Refrig Bike,37.3,0,1209.71,0.0
+ORD_10730,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,4.57,15,18.0,1,EV Refrig Bike,30.0,0,618.1,0.0
+ORD_10731,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,5.16,15,20.3,1,EV Refrig Bike,35.6,0,1354.63,0.0
+ORD_10732,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,4.5,15,19.0,1,EV Refrig Bike,36.8,0,781.54,0.0
+ORD_10733,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,0.86,10,8.1,0,Standard Bike,35.3,0,808.61,0.0
+ORD_10734,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,0.9,10,6.6,0,Standard Bike,28.9,0,1661.78,0.0
+ORD_10735,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,1.73,10,8.4,0,EV Refrig Bike,29.1,0,1134.13,0.0
+ORD_10736,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,4.21,15,19.0,1,EV Refrig Bike,33.5,0,1078.57,0.0
+ORD_10737,DS_BLR_02,Bengaluru,Indiranagar,Beverages,2.01,10,9.1,0,EV Refrig Bike,36.9,0,428.1,0.0
+ORD_10738,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,4.19,15,18.6,1,EV Refrig Bike,28.5,0,648.45,0.0
+ORD_10739,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,4.86,15,22.6,1,Standard Bike,34.9,1,1217.57,228.53
+ORD_10740,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.26,10,10.6,1,EV Refrig Bike,35.6,0,1508.3,0.0
+ORD_10741,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,4.48,15,18.8,1,Standard Bike,35.9,0,1182.15,0.0
+ORD_10742,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,4.53,15,16.6,1,EV Refrig Bike,28.5,0,872.91,0.0
+ORD_10743,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,3.42,15,15.7,1,EV Refrig Bike,32.8,0,1275.64,0.0
+ORD_10744,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,1.52,10,10.3,1,EV Refrig Bike,32.8,0,584.85,0.0
+ORD_10745,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,2.48,10,12.9,1,EV Refrig Bike,31.0,0,1741.26,0.0
+ORD_10746,DS_BLR_01,Bengaluru,Koramangala,Beverages,1.76,10,8.3,0,EV Refrig Bike,30.1,0,251.46,0.0
+ORD_10747,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.29,10,11.5,1,EV Refrig Bike,29.4,0,1394.16,0.0
+ORD_10748,DS_MUM_01,Mumbai,Bandra West,Beverages,3.5,15,15.5,1,EV Refrig Bike,37.8,0,1139.02,0.0
+ORD_10749,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,3.08,15,12.7,0,EV Refrig Bike,29.1,0,1555.27,0.0
+ORD_10750,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,2.47,10,13.5,1,EV Refrig Bike,31.4,0,1597.96,0.0
+ORD_10751,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,2.28,10,10.0,0,Standard Bike,36.3,0,1396.8,0.0
+ORD_10752,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,3.68,15,16.3,1,Standard Bike,28.4,1,1117.6,246.62
+ORD_10753,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,4.19,15,17.7,1,EV Refrig Bike,35.0,0,548.95,0.0
+ORD_10754,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,0.76,10,4.8,0,Standard Bike,31.0,0,1075.33,0.0
+ORD_10755,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,1.37,10,9.0,0,EV Refrig Bike,37.0,0,1153.16,0.0
+ORD_10756,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,4.31,15,16.3,1,Standard Bike,34.7,0,1216.24,0.0
+ORD_10757,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,2.54,15,11.5,0,Standard Bike,35.3,1,649.09,393.94
+ORD_10758,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,2.68,15,12.0,0,EV Refrig Bike,30.8,0,1115.17,0.0
+ORD_10759,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,4.97,15,20.0,1,EV Refrig Bike,35.2,0,1546.44,0.0
+ORD_10760,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,2.18,10,8.1,0,Standard Bike,33.5,0,1398.03,0.0
+ORD_10761,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,3.86,15,16.1,1,EV Refrig Bike,30.8,0,959.24,0.0
+ORD_10762,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,0.87,10,8.7,0,EV Refrig Bike,30.4,0,552.19,0.0
+ORD_10763,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,2.39,10,10.4,1,EV Refrig Bike,35.9,0,873.58,0.0
+ORD_10764,DS_HYD_01,Hyderabad,Hitech City,Beverages,1.09,10,8.0,0,EV Refrig Bike,36.4,0,656.73,0.0
+ORD_10765,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.58,15,13.6,0,EV Refrig Bike,34.5,0,792.81,0.0
+ORD_10766,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,2.33,10,14.0,1,EV Refrig Bike,37.7,0,1753.62,0.0
+ORD_10767,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,1.92,10,11.6,1,EV Refrig Bike,34.9,0,699.57,0.0
+ORD_10768,DS_BLR_02,Bengaluru,Indiranagar,Beverages,1.91,10,12.4,1,EV Refrig Bike,28.6,0,1002.73,0.0
+ORD_10769,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,1.32,10,8.4,0,EV Refrig Bike,30.2,0,1048.72,0.0
+ORD_10770,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,1.0,10,9.8,0,EV Refrig Bike,31.8,0,1184.98,0.0
+ORD_10771,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.47,10,10.5,1,EV Refrig Bike,28.4,0,1406.58,0.0
+ORD_10772,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,4.9,15,20.6,1,EV Refrig Bike,34.2,0,453.5,0.0
+ORD_10773,DS_BLR_02,Bengaluru,Indiranagar,Beverages,2.88,15,12.4,0,EV Refrig Bike,31.0,0,1219.49,0.0
+ORD_10774,DS_MUM_01,Mumbai,Bandra West,Beverages,2.87,15,14.9,0,EV Refrig Bike,28.4,0,755.56,0.0
+ORD_10775,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.71,15,10.6,0,EV Refrig Bike,37.5,0,779.89,0.0
+ORD_10776,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.33,15,15.3,1,Standard Bike,32.5,1,1622.12,395.0
+ORD_10777,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,2.52,15,12.3,0,EV Refrig Bike,29.2,0,1764.3,0.0
+ORD_10778,DS_BLR_02,Bengaluru,Indiranagar,Beverages,5.21,15,19.3,1,EV Refrig Bike,37.4,0,677.13,0.0
+ORD_10779,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,3.64,15,16.2,1,EV Refrig Bike,28.3,0,615.16,0.0
+ORD_10780,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,2.44,10,11.8,1,Standard Bike,37.8,1,1362.4,342.83
+ORD_10781,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,1.7,10,9.8,0,EV Refrig Bike,36.5,0,1398.35,0.0
+ORD_10782,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,2.13,10,9.9,0,EV Refrig Bike,34.1,0,939.09,0.0
+ORD_10783,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,5.12,15,21.6,1,Standard Bike,31.7,1,433.27,349.12
+ORD_10784,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,3.42,15,12.3,0,Standard Bike,34.0,1,899.97,349.42
+ORD_10785,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.43,15,18.0,1,EV Refrig Bike,29.3,0,1485.96,0.0
+ORD_10786,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,5.4,15,22.1,1,Standard Bike,37.1,1,1152.21,365.18
+ORD_10787,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,2.72,15,10.7,0,Standard Bike,32.8,0,1423.24,0.0
+ORD_10788,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,4.81,15,18.0,1,EV Refrig Bike,33.5,0,896.6,0.0
+ORD_10789,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,1.6,10,8.2,0,Standard Bike,36.2,0,732.64,0.0
+ORD_10790,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,2.85,15,11.4,0,Standard Bike,29.9,1,711.68,188.72
+ORD_10791,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.51,10,8.3,0,EV Refrig Bike,31.8,0,1521.84,0.0
+ORD_10792,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,2.93,15,16.4,1,Standard Bike,32.6,0,1349.99,0.0
+ORD_10793,DS_MUM_01,Mumbai,Bandra West,Beverages,3.11,15,17.6,1,EV Refrig Bike,34.4,0,1437.1,0.0
+ORD_10794,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,4.37,15,20.3,1,EV Refrig Bike,34.1,0,913.95,0.0
+ORD_10795,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.31,15,17.0,1,Standard Bike,33.7,1,1779.37,387.6
+ORD_10796,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,4.94,15,17.3,1,EV Refrig Bike,34.2,0,1686.71,0.0
+ORD_10797,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,0.75,10,8.0,0,EV Refrig Bike,30.6,0,981.99,0.0
+ORD_10798,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,1.9,10,12.4,1,Standard Bike,28.5,1,377.99,323.56
+ORD_10799,DS_BLR_03,Bengaluru,Whitefield,Beverages,2.29,10,11.2,1,Standard Bike,29.2,0,1598.01,0.0
+ORD_10800,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,5.22,15,22.3,1,EV Refrig Bike,37.1,0,259.58,0.0
+ORD_10801,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,3.9,15,16.8,1,EV Refrig Bike,37.4,0,1471.71,0.0
+ORD_10802,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,2.75,15,13.2,0,Standard Bike,38.0,1,1084.24,236.25
+ORD_10803,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,0.98,10,6.3,0,EV Refrig Bike,28.6,0,1559.77,0.0
+ORD_10804,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,3.22,15,13.8,0,Standard Bike,37.9,1,825.01,333.4
+ORD_10805,DS_HYD_01,Hyderabad,Hitech City,Beverages,0.57,10,3.7,0,EV Refrig Bike,30.4,0,300.2,0.0
+ORD_10806,DS_MUM_01,Mumbai,Bandra West,Beverages,3.38,15,16.9,1,EV Refrig Bike,30.4,0,597.79,0.0
+ORD_10807,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.22,10,7.2,0,EV Refrig Bike,33.1,0,1559.44,0.0
+ORD_10808,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,4.82,15,22.4,1,EV Refrig Bike,36.7,0,1153.81,0.0
+ORD_10809,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,2.44,10,12.2,1,EV Refrig Bike,33.8,0,1363.16,0.0
+ORD_10810,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,5.29,15,22.4,1,EV Refrig Bike,37.0,0,1748.26,0.0
+ORD_10811,DS_BLR_01,Bengaluru,Koramangala,Ambient Grocery,1.3,10,7.9,0,EV Refrig Bike,29.2,0,606.99,0.0
+ORD_10812,DS_DEL_02,Delhi-NCR,Noida Sector 62,Fresh Produce,2.43,10,11.6,1,Standard Bike,32.9,1,548.0,246.22
+ORD_10813,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,3.07,15,13.1,0,EV Refrig Bike,34.4,0,1468.81,0.0
+ORD_10814,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,4.08,15,15.1,1,Standard Bike,34.8,1,1174.02,169.23
+ORD_10815,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,2.48,10,12.8,1,EV Refrig Bike,32.2,0,729.99,0.0
+ORD_10816,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,5.27,15,23.2,1,Standard Bike,31.5,1,1094.44,336.07
+ORD_10817,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,4.08,15,19.5,1,EV Refrig Bike,35.2,0,261.46,0.0
+ORD_10818,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,2.45,10,12.6,1,Standard Bike,36.0,1,355.46,222.5
+ORD_10819,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,1.84,10,8.5,0,EV Refrig Bike,35.5,0,269.52,0.0
+ORD_10820,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,2.06,10,12.8,1,EV Refrig Bike,28.1,0,884.23,0.0
+ORD_10821,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,4.83,15,18.6,1,EV Refrig Bike,36.6,0,1514.94,0.0
+ORD_10822,DS_MUM_01,Mumbai,Bandra West,Beverages,3.96,15,13.7,0,EV Refrig Bike,34.6,0,1195.01,0.0
+ORD_10823,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.48,10,12.5,1,EV Refrig Bike,28.0,0,654.1,0.0
+ORD_10824,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,4.95,15,20.2,1,EV Refrig Bike,33.2,0,329.31,0.0
+ORD_10825,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,1.98,10,8.0,0,Standard Bike,34.5,0,331.72,0.0
+ORD_10826,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,1.17,10,8.7,0,EV Refrig Bike,35.1,0,414.63,0.0
+ORD_10827,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,5.0,15,19.2,1,EV Refrig Bike,28.4,0,1024.3,0.0
+ORD_10828,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,2.79,15,11.1,0,EV Refrig Bike,34.4,0,376.24,0.0
+ORD_10829,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,1.98,10,10.8,1,EV Refrig Bike,38.0,0,591.51,0.0
+ORD_10830,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,1.23,10,7.6,0,EV Refrig Bike,32.7,0,415.4,0.0
+ORD_10831,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,1.15,10,8.0,0,Standard Bike,31.2,0,1213.35,0.0
+ORD_10832,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,1.18,10,7.7,0,EV Refrig Bike,37.4,0,1196.08,0.0
+ORD_10833,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.03,15,15.3,1,Standard Bike,36.6,1,926.97,201.18
+ORD_10834,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,1.9,10,7.4,0,EV Refrig Bike,35.0,0,1374.26,0.0
+ORD_10835,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,2.24,10,11.2,1,Standard Bike,34.8,1,1047.05,413.8
+ORD_10836,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,5.41,15,18.9,1,Standard Bike,28.4,1,1530.9,258.69
+ORD_10837,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,4.63,15,17.1,1,EV Refrig Bike,35.8,0,1717.66,0.0
+ORD_10838,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,3.13,15,18.0,1,EV Refrig Bike,31.6,0,990.69,0.0
+ORD_10839,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,4.25,15,16.0,1,EV Refrig Bike,28.6,0,781.73,0.0
+ORD_10840,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,0.7,10,7.7,0,Standard Bike,36.9,0,946.01,0.0
+ORD_10841,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,4.85,15,18.4,1,Standard Bike,33.7,1,1703.38,191.17
+ORD_10842,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,3.25,15,14.3,0,EV Refrig Bike,37.1,0,1521.79,0.0
+ORD_10843,DS_HYD_01,Hyderabad,Hitech City,Beverages,3.07,15,14.1,0,EV Refrig Bike,33.3,0,1152.93,0.0
+ORD_10844,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,3.41,15,15.3,1,EV Refrig Bike,29.8,0,338.35,0.0
+ORD_10845,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,1.12,10,6.0,0,Standard Bike,30.0,0,1797.39,0.0
+ORD_10846,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.48,15,14.4,0,EV Refrig Bike,35.4,0,1219.76,0.0
+ORD_10847,DS_MUM_01,Mumbai,Bandra West,Beverages,3.93,15,15.9,1,EV Refrig Bike,30.8,0,1325.49,0.0
+ORD_10848,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,4.79,15,17.7,1,EV Refrig Bike,29.8,0,413.76,0.0
+ORD_10849,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,2.11,10,8.5,0,Standard Bike,34.6,0,1504.25,0.0
+ORD_10850,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,4.75,15,21.3,1,EV Refrig Bike,31.1,0,1734.86,0.0
+ORD_10851,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,1.55,10,9.6,0,EV Refrig Bike,30.2,0,1212.9,0.0
+ORD_10852,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,1.56,10,10.9,1,Standard Bike,33.0,0,1663.27,0.0
+ORD_10853,DS_HYD_01,Hyderabad,Hitech City,Beverages,1.77,10,9.3,0,EV Refrig Bike,31.5,0,1540.68,0.0
+ORD_10854,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,2.74,15,15.2,1,EV Refrig Bike,30.9,0,706.97,0.0
+ORD_10855,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,4.67,15,18.4,1,EV Refrig Bike,36.8,0,554.83,0.0
+ORD_10856,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,5.03,15,24.5,1,EV Refrig Bike,32.5,0,1715.86,0.0
+ORD_10857,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,2.85,15,16.3,1,EV Refrig Bike,31.4,0,1140.6,0.0
+ORD_10858,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,4.48,15,19.3,1,EV Refrig Bike,34.4,0,555.63,0.0
+ORD_10859,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,0.93,10,6.0,0,Standard Bike,29.2,0,817.14,0.0
+ORD_10860,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,3.91,15,15.2,1,EV Refrig Bike,28.4,0,956.13,0.0
+ORD_10861,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,1.2,10,7.4,0,EV Refrig Bike,29.8,0,260.6,0.0
+ORD_10862,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,5.43,15,19.4,1,EV Refrig Bike,36.0,0,415.9,0.0
+ORD_10863,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,4.59,15,19.1,1,Standard Bike,30.2,0,371.37,0.0
+ORD_10864,DS_MUM_02,Mumbai,Andheri East,Beverages,5.18,15,17.1,1,Standard Bike,36.7,0,1393.02,0.0
+ORD_10865,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,4.88,15,19.3,1,EV Refrig Bike,29.6,0,791.76,0.0
+ORD_10866,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,0.64,10,6.7,0,EV Refrig Bike,29.5,0,1525.66,0.0
+ORD_10867,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,5.4,15,18.1,1,EV Refrig Bike,28.5,0,1148.37,0.0
+ORD_10868,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,4.6,15,15.4,1,EV Refrig Bike,30.7,0,1277.43,0.0
+ORD_10869,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,0.92,10,7.2,0,EV Refrig Bike,37.9,0,783.68,0.0
+ORD_10870,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.0,10,10.7,1,EV Refrig Bike,36.2,0,836.39,0.0
+ORD_10871,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,2.5,10,12.4,1,EV Refrig Bike,35.1,0,1654.46,0.0
+ORD_10872,DS_BLR_03,Bengaluru,Whitefield,Beverages,1.91,10,9.6,0,Standard Bike,29.2,0,1150.19,0.0
+ORD_10873,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,2.03,10,8.9,0,EV Refrig Bike,34.1,0,1774.79,0.0
+ORD_10874,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.69,15,17.7,1,Standard Bike,33.3,1,985.53,448.87
+ORD_10875,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,2.22,10,13.1,1,EV Refrig Bike,36.1,0,1358.18,0.0
+ORD_10876,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,2.59,15,12.1,0,Standard Bike,28.2,1,616.54,412.06
+ORD_10877,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,1.36,10,9.7,0,EV Refrig Bike,37.6,0,548.14,0.0
+ORD_10878,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,2.53,15,10.0,0,EV Refrig Bike,28.1,0,280.96,0.0
+ORD_10879,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,3.13,15,16.5,1,EV Refrig Bike,35.5,0,475.55,0.0
+ORD_10880,DS_MUM_02,Mumbai,Andheri East,Beverages,1.67,10,9.2,0,Standard Bike,30.1,0,616.92,0.0
+ORD_10881,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,3.39,15,15.6,1,EV Refrig Bike,28.3,0,1088.92,0.0
+ORD_10882,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,1.52,10,8.1,0,EV Refrig Bike,38.0,0,994.28,0.0
+ORD_10883,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,1.95,10,11.2,1,EV Refrig Bike,28.0,0,1170.91,0.0
+ORD_10884,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,1.46,10,7.8,0,EV Refrig Bike,37.1,0,769.88,0.0
+ORD_10885,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,5.17,15,21.5,1,EV Refrig Bike,32.6,0,481.63,0.0
+ORD_10886,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,2.73,15,10.9,0,EV Refrig Bike,29.6,0,879.81,0.0
+ORD_10887,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,5.16,15,23.0,1,Standard Bike,28.3,0,1575.51,0.0
+ORD_10888,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.43,15,18.9,1,Standard Bike,29.7,1,630.45,344.41
+ORD_10889,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,5.36,15,25.0,1,EV Refrig Bike,29.0,0,1039.19,0.0
+ORD_10890,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,5.44,15,23.3,1,Standard Bike,34.8,1,620.45,213.62
+ORD_10891,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,1.53,10,7.7,0,EV Refrig Bike,29.0,0,1338.73,0.0
+ORD_10892,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,0.54,10,6.9,0,Standard Bike,29.5,0,497.48,0.0
+ORD_10893,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,0.66,10,7.0,0,EV Refrig Bike,37.0,0,1216.8,0.0
+ORD_10894,DS_MUM_02,Mumbai,Andheri East,Beverages,2.5,10,10.6,1,Standard Bike,35.7,0,1000.01,0.0
+ORD_10895,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,3.95,15,16.5,1,Standard Bike,36.1,1,1090.14,215.13
+ORD_10896,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,1.95,10,7.6,0,Standard Bike,29.5,0,1083.25,0.0
+ORD_10897,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,2.5,10,11.0,1,EV Refrig Bike,33.0,0,649.56,0.0
+ORD_10898,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,5.16,15,21.0,1,EV Refrig Bike,28.1,0,1090.12,0.0
+ORD_10899,DS_MUM_02,Mumbai,Andheri East,Beverages,4.59,15,16.5,1,Standard Bike,35.7,0,575.8,0.0
+ORD_10900,DS_BLR_01,Bengaluru,Koramangala,Fresh Produce,3.74,15,19.3,1,EV Refrig Bike,34.1,0,493.67,0.0
+ORD_10901,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,4.31,15,16.6,1,Standard Bike,28.3,1,1214.57,185.83
+ORD_10902,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,2.77,15,10.7,0,EV Refrig Bike,33.5,0,1096.68,0.0
+ORD_10903,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,1.98,10,13.8,1,EV Refrig Bike,37.2,0,1435.08,0.0
+ORD_10904,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,1.14,10,5.8,0,EV Refrig Bike,34.2,0,801.9,0.0
+ORD_10905,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,0.98,10,6.8,0,EV Refrig Bike,35.6,0,1493.49,0.0
+ORD_10906,DS_BLR_02,Bengaluru,Indiranagar,Ambient Grocery,3.47,15,16.8,1,EV Refrig Bike,29.6,0,1335.54,0.0
+ORD_10907,DS_DEL_02,Delhi-NCR,Noida Sector 62,Ambient Grocery,3.41,15,15.9,1,Standard Bike,32.7,0,810.31,0.0
+ORD_10908,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,2.47,10,11.1,1,EV Refrig Bike,32.7,0,1009.98,0.0
+ORD_10909,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,3.27,15,16.0,1,EV Refrig Bike,35.3,0,1672.55,0.0
+ORD_10910,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,2.93,15,12.6,0,EV Refrig Bike,30.4,0,1721.39,0.0
+ORD_10911,DS_BLR_03,Bengaluru,Whitefield,Beverages,1.35,10,7.3,0,Standard Bike,34.9,0,1609.83,0.0
+ORD_10912,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,2.28,10,13.4,1,EV Refrig Bike,31.8,0,650.25,0.0
+ORD_10913,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,1.88,10,7.9,0,EV Refrig Bike,34.6,0,618.22,0.0
+ORD_10914,DS_MUM_01,Mumbai,Bandra West,Beverages,2.19,10,9.8,0,EV Refrig Bike,35.4,0,331.03,0.0
+ORD_10915,DS_BLR_02,Bengaluru,Indiranagar,Beverages,3.92,15,19.7,1,EV Refrig Bike,32.3,0,542.93,0.0
+ORD_10916,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,1.39,10,6.8,0,Standard Bike,30.0,0,1712.84,0.0
+ORD_10917,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,2.11,10,10.8,1,EV Refrig Bike,37.1,0,1014.99,0.0
+ORD_10918,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,1.83,10,7.8,0,Standard Bike,29.1,0,256.07,0.0
+ORD_10919,DS_DEL_02,Delhi-NCR,Noida Sector 62,Beverages,4.83,15,20.0,1,Standard Bike,29.2,0,1161.6,0.0
+ORD_10920,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,4.28,15,16.0,1,Standard Bike,28.2,1,886.27,180.7
+ORD_10921,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,4.75,15,19.1,1,EV Refrig Bike,37.8,0,1397.59,0.0
+ORD_10922,DS_BLR_03,Bengaluru,Whitefield,Beverages,1.34,10,8.3,0,Standard Bike,34.3,0,1716.59,0.0
+ORD_10923,DS_DEL_02,Delhi-NCR,Noida Sector 62,Frozen Meat,1.37,10,8.1,0,Standard Bike,34.8,0,564.45,0.0
+ORD_10924,DS_BLR_02,Bengaluru,Indiranagar,Beverages,1.18,10,6.0,0,EV Refrig Bike,31.0,0,635.91,0.0
+ORD_10925,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,0.81,10,5.5,0,Standard Bike,33.7,0,1256.79,0.0
+ORD_10926,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,3.63,15,19.5,1,EV Refrig Bike,33.1,0,1066.86,0.0
+ORD_10927,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,3.36,15,16.5,1,Standard Bike,33.1,0,1023.62,0.0
+ORD_10928,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,0.61,10,6.9,0,EV Refrig Bike,31.0,0,460.22,0.0
+ORD_10929,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,1.0,10,9.7,0,EV Refrig Bike,28.0,0,1239.94,0.0
+ORD_10930,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,4.71,15,19.5,1,EV Refrig Bike,35.0,0,873.92,0.0
+ORD_10931,DS_BLR_02,Bengaluru,Indiranagar,Frozen Meat,1.81,10,11.0,1,EV Refrig Bike,32.8,0,739.11,0.0
+ORD_10932,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,2.98,15,14.9,0,EV Refrig Bike,31.5,0,1447.9,0.0
+ORD_10933,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.1,15,11.9,0,EV Refrig Bike,35.8,0,810.49,0.0
+ORD_10934,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,2.33,10,13.4,1,EV Refrig Bike,29.2,0,1778.2,0.0
+ORD_10935,DS_BLR_02,Bengaluru,Indiranagar,Dairy & Ice Cream,3.02,15,11.8,0,EV Refrig Bike,33.0,0,844.85,0.0
+ORD_10936,DS_BLR_02,Bengaluru,Indiranagar,Beverages,3.72,15,16.9,1,EV Refrig Bike,36.9,0,1675.68,0.0
+ORD_10937,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,4.15,15,17.1,1,EV Refrig Bike,29.7,0,540.67,0.0
+ORD_10938,DS_BLR_01,Bengaluru,Koramangala,Beverages,0.93,10,5.8,0,EV Refrig Bike,31.4,0,278.03,0.0
+ORD_10939,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,0.69,10,6.6,0,Standard Bike,37.9,0,1618.38,0.0
+ORD_10940,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,1.28,10,8.9,0,Standard Bike,33.0,0,1771.2,0.0
+ORD_10941,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,5.0,15,18.6,1,Standard Bike,34.6,1,1545.09,285.83
+ORD_10942,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,1.78,10,11.5,1,EV Refrig Bike,29.9,0,1531.65,0.0
+ORD_10943,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,0.81,10,6.5,0,Standard Bike,29.4,0,408.87,0.0
+ORD_10944,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,2.76,15,13.9,0,EV Refrig Bike,37.5,0,745.57,0.0
+ORD_10945,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,1.97,10,10.8,1,EV Refrig Bike,31.7,0,277.46,0.0
+ORD_10946,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,2.93,15,12.1,0,EV Refrig Bike,32.4,0,833.1,0.0
+ORD_10947,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,3.51,15,15.6,1,EV Refrig Bike,32.8,0,1379.05,0.0
+ORD_10948,DS_MUM_02,Mumbai,Andheri East,Dairy & Ice Cream,5.17,15,19.8,1,Standard Bike,34.5,1,1208.06,158.79
+ORD_10949,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,0.88,10,6.7,0,EV Refrig Bike,34.7,0,738.9,0.0
+ORD_10950,DS_BLR_03,Bengaluru,Whitefield,Dairy & Ice Cream,0.76,10,7.9,0,Standard Bike,33.4,0,1038.49,0.0
+ORD_10951,DS_BLR_02,Bengaluru,Indiranagar,Fresh Produce,1.13,10,8.8,0,EV Refrig Bike,37.0,0,1280.47,0.0
+ORD_10952,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,3.75,15,14.5,0,Standard Bike,28.7,1,1769.01,232.1
+ORD_10953,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,5.5,15,22.4,1,EV Refrig Bike,29.5,0,1452.6,0.0
+ORD_10954,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,3.2,15,16.3,1,EV Refrig Bike,34.7,0,350.59,0.0
+ORD_10955,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,3.21,15,13.0,0,EV Refrig Bike,36.0,0,1229.79,0.0
+ORD_10956,DS_HYD_01,Hyderabad,Hitech City,Frozen Meat,4.65,15,17.6,1,EV Refrig Bike,37.4,0,1663.92,0.0
+ORD_10957,DS_BLR_03,Bengaluru,Whitefield,Frozen Meat,4.09,15,18.7,1,Standard Bike,28.5,1,519.19,181.87
+ORD_10958,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,1.73,10,10.2,1,Standard Bike,33.6,0,1401.09,0.0
+ORD_10959,DS_MUM_02,Mumbai,Andheri East,Beverages,2.63,15,13.0,0,Standard Bike,34.3,0,467.79,0.0
+ORD_10960,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,2.99,15,14.1,0,EV Refrig Bike,36.6,0,1310.52,0.0
+ORD_10961,DS_BLR_03,Bengaluru,Whitefield,Beverages,3.42,15,14.1,0,Standard Bike,33.2,0,286.57,0.0
+ORD_10962,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,5.2,15,23.8,1,EV Refrig Bike,36.6,0,863.88,0.0
+ORD_10963,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,4.93,15,19.4,1,EV Refrig Bike,36.0,0,667.6,0.0
+ORD_10964,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,0.79,10,6.6,0,EV Refrig Bike,29.6,0,1718.73,0.0
+ORD_10965,DS_HYD_01,Hyderabad,Hitech City,Beverages,2.96,15,15.9,1,EV Refrig Bike,30.5,0,1010.76,0.0
+ORD_10966,DS_MUM_02,Mumbai,Andheri East,Beverages,3.31,15,13.0,0,Standard Bike,29.3,0,1070.78,0.0
+ORD_10967,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,1.76,10,8.2,0,EV Refrig Bike,29.4,0,1799.18,0.0
+ORD_10968,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,0.82,10,8.0,0,EV Refrig Bike,38.0,0,917.03,0.0
+ORD_10969,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,3.5,15,18.5,1,EV Refrig Bike,30.3,0,1312.06,0.0
+ORD_10970,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,3.93,15,14.0,0,EV Refrig Bike,36.1,0,335.81,0.0
+ORD_10971,DS_MUM_01,Mumbai,Bandra West,Dairy & Ice Cream,1.81,10,9.9,0,EV Refrig Bike,30.2,0,946.08,0.0
+ORD_10972,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Ambient Grocery,4.07,15,15.4,1,EV Refrig Bike,29.2,0,1068.68,0.0
+ORD_10973,DS_MUM_02,Mumbai,Andheri East,Beverages,3.65,15,16.1,1,Standard Bike,37.7,0,424.2,0.0
+ORD_10974,DS_HYD_01,Hyderabad,Hitech City,Ambient Grocery,2.42,10,12.9,1,EV Refrig Bike,34.0,0,713.34,0.0
+ORD_10975,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,2.44,10,13.7,1,EV Refrig Bike,32.1,0,475.1,0.0
+ORD_10976,DS_BLR_02,Bengaluru,Indiranagar,Beverages,1.51,10,9.7,0,EV Refrig Bike,28.1,0,381.39,0.0
+ORD_10977,DS_DEL_02,Delhi-NCR,Noida Sector 62,Dairy & Ice Cream,3.3,15,15.1,1,Standard Bike,37.2,1,1604.87,211.99
+ORD_10978,DS_BLR_02,Bengaluru,Indiranagar,Beverages,3.04,15,16.3,1,EV Refrig Bike,35.3,0,1770.18,0.0
+ORD_10979,DS_BLR_03,Bengaluru,Whitefield,Beverages,3.64,15,17.8,1,Standard Bike,34.8,0,1657.01,0.0
+ORD_10980,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,4.68,15,21.4,1,Standard Bike,33.5,1,1685.6,420.49
+ORD_10981,DS_MUM_02,Mumbai,Andheri East,Fresh Produce,5.13,15,18.6,1,Standard Bike,28.6,1,1216.29,364.37
+ORD_10982,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Beverages,5.34,15,23.0,1,EV Refrig Bike,28.9,0,1116.66,0.0
+ORD_10983,DS_BLR_03,Bengaluru,Whitefield,Fresh Produce,4.22,15,15.8,1,Standard Bike,32.8,1,650.99,238.38
+ORD_10984,DS_BLR_01,Bengaluru,Koramangala,Beverages,2.33,10,14.1,1,EV Refrig Bike,37.6,0,622.23,0.0
+ORD_10985,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,2.52,15,10.4,0,EV Refrig Bike,36.2,0,430.87,0.0
+ORD_10986,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Dairy & Ice Cream,2.6,15,10.3,0,EV Refrig Bike,28.8,0,1615.95,0.0
+ORD_10987,DS_MUM_02,Mumbai,Andheri East,Ambient Grocery,4.63,15,21.5,1,Standard Bike,37.3,0,1029.72,0.0
+ORD_10988,DS_BLR_03,Bengaluru,Whitefield,Ambient Grocery,4.2,15,20.8,1,Standard Bike,32.1,0,979.59,0.0
+ORD_10989,DS_BLR_01,Bengaluru,Koramangala,Dairy & Ice Cream,1.75,10,8.7,0,EV Refrig Bike,35.0,0,1205.17,0.0
+ORD_10990,DS_BLR_01,Bengaluru,Koramangala,Beverages,1.86,10,10.1,1,EV Refrig Bike,37.2,0,1151.46,0.0
+ORD_10991,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,5.22,15,23.1,1,EV Refrig Bike,32.7,0,650.51,0.0
+ORD_10992,DS_MUM_01,Mumbai,Bandra West,Frozen Meat,5.18,15,23.6,1,EV Refrig Bike,35.6,0,634.11,0.0
+ORD_10993,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Frozen Meat,3.15,15,14.0,0,EV Refrig Bike,32.2,0,561.36,0.0
+ORD_10994,DS_HYD_01,Hyderabad,Hitech City,Fresh Produce,2.53,15,12.4,0,EV Refrig Bike,36.2,0,516.1,0.0
+ORD_10995,DS_MUM_01,Mumbai,Bandra West,Fresh Produce,2.23,10,10.4,1,EV Refrig Bike,36.2,0,1101.46,0.0
+ORD_10996,DS_MUM_02,Mumbai,Andheri East,Frozen Meat,3.7,15,18.4,1,Standard Bike,33.9,1,947.2,175.62
+ORD_10997,DS_DEL_01,Delhi-NCR,Gurugram Cyber City,Fresh Produce,3.51,15,13.0,0,EV Refrig Bike,33.0,0,657.77,0.0
+ORD_10998,DS_MUM_01,Mumbai,Bandra West,Ambient Grocery,3.93,15,13.6,0,EV Refrig Bike,36.6,0,746.96,0.0
+ORD_10999,DS_HYD_01,Hyderabad,Hitech City,Dairy & Ice Cream,3.43,15,13.6,0,EV Refrig Bike,28.7,0,1380.59,0.0
+ORD_11000,DS_BLR_01,Bengaluru,Koramangala,Frozen Meat,2.71,15,14.3,0,EV Refrig Bike,36.9,0,1423.02,0.0

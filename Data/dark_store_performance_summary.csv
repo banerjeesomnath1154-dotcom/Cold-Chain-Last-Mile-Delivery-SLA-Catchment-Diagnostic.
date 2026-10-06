@@ -1,0 +1,9 @@
+city,zone,store_id,fleet_type,total_orders,total_revenue_inr,total_spoilage_loss_inr,net_revenue_inr,avg_delivery_mins,sla_breach_count,spoilage_incident_count,sla_compliance_rate_pct,spoilage_rate_pct
+Bengaluru,Indiranagar,DS_BLR_02,EV Refrig Bike,121,130672.68,0.0,130672.68,13.70495867768595,64,0,47.11,0.0
+Bengaluru,Koramangala,DS_BLR_01,EV Refrig Bike,136,136792.71,0.0,136792.71,13.341176470588236,68,0,50.0,0.0
+Bengaluru,Whitefield,DS_BLR_03,Standard Bike,111,120487.29,13810.33,106676.96,13.996396396396396,63,47,43.24,42.34
+Delhi-NCR,Gurugram Cyber City,DS_DEL_01,EV Refrig Bike,120,121273.81,0.0,121273.81,13.870000000000001,67,0,44.17,0.0
+Delhi-NCR,Noida Sector 62,DS_DEL_02,Standard Bike,122,123596.05,17627.86,105968.19,14.041803278688525,75,60,38.52,49.18
+Hyderabad,Hitech City,DS_HYD_01,EV Refrig Bike,131,135358.25,0.0,135358.25,13.896946564885496,71,0,45.8,0.0
+Mumbai,Andheri East,DS_MUM_02,Standard Bike,131,136550.75,17048.43,119502.32,14.582442748091603,79,59,39.69,45.04
+Mumbai,Bandra West,DS_MUM_01,EV Refrig Bike,128,135325.15,0.0,135325.15,14.025,76,0,40.62,0.0
