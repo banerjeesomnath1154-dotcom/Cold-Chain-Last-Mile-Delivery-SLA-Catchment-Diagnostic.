@@ -51,7 +51,7 @@ cold-chain-catchment-spatial-analyzer/
 ---
 
 ## 👤 Author & Contact
-* **Author:** [Your Name]
+* **Author:** Somnath Banerjee
 * **Role:** Aspiring Business Analyst & Geospatial BI Specialist
-* **LinkedIn:** [Insert Your LinkedIn Profile Link]
+* **LinkedIn:** linkedin.com/in/somnath-banerjee-621720239
 * **GitHub:** [Insert Your GitHub Profile Link]
